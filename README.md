@@ -5,7 +5,6 @@ This repo is a collection of highly recommended materials for front-end develope
 
 ## HTML
 - https://developer.mozilla.org/en-US/docs/Web/HTML
-- 
 
 ## CSS
 - https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -14,30 +13,58 @@ This repo is a collection of highly recommended materials for front-end develope
 
 ## Advanced CSS
 - https://cssdemystified.com/
+- https://debuggingcss.com/
 
 ## JavaScript
+
+#### Books
 - https://eloquentjavascript.net/
 - https://javascript.info/
 - https://exploringjs.com/impatient-js/toc.html
 
+#### Videos
+- https://www.udemy.com/course/the-complete-javascript-course/
+- https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+
 ## Advanced JavaScript
+
+#### Books
 - https://github.com/getify/You-Dont-Know-JS
 - https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition
 - https://exploringjs.com/deep-js/toc.html
+
+#### Videos
+- https://frontendmasters.com/courses/deep-javascript-v3/
+- https://frontendmasters.com/courses/javascript-hard-parts-v2/
+
+## HTTP
+-  https://developer.mozilla.org/en-US/docs/Web/HTTP
+-  https://livebook.manning.com/book/http2-in-action/about-this-book/
+
+## Web performance
+- https://developer.mozilla.org/en-US/docs/Learn/Performance
+- https://web.dev/learn/#performance
+- https://developers.google.com/web/fundamentals/performance/get-started
+- https://www.smashingmagazine.com/guides/performance/
 
 ## TypeScript
 - https://basarat.gitbook.io/typescript/
 - https://www.udemy.com/course/understanding-typescript/
 
 ## React
-TBD
+- https://www.udemy.com/course/react-redux/
 
 ## Angular
-TBD
+- https://www.udemy.com/course/the-complete-guide-to-angular-2/
+
+## JavaScript Best practices
+- https://refactoringjs.com/files/refactoring-javascript.pdf
+- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ## Functional JavaScript
 - https://mostly-adequate.gitbook.io/mostly-adequate-guide/
 - https://aguru.gitbooks.io/functional-light-javascript/content/
+- https://frontendmasters.com/courses/functional-javascript-v3/
 
 ## Data Structures and Algorithms
 
