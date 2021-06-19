@@ -1,6 +1,6 @@
 # Front-end Learning Kit
 
-This repo is a collection of highly recommended materials and best practices for front-end developers.
+This repo is a collection of highly recommended materials and best practices for front-end developers. (free + paid)
 
 ------------
 
