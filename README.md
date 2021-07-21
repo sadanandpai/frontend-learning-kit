@@ -33,6 +33,7 @@ This repo is a collection of highly recommended materials and best practices for
 - https://github.com/getify/You-Dont-Know-JS
 - https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition
 - https://exploringjs.com/deep-js/toc.html
+- https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/
 
 #### Videos
 - https://frontendmasters.com/courses/deep-javascript-v3/
