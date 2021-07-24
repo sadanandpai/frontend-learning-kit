@@ -5,91 +5,105 @@ This repo is a collection of highly recommended materials and best practices for
 ------------
 
 ## HTML
-- https://developer.mozilla.org/en-US/docs/Web/HTML
+- [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## CSS
-- https://developer.mozilla.org/en-US/docs/Web/CSS
-- https://web.dev/learn/css/
-- https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
+- [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Web Dev](https://web.dev/learn/css/)
+- [CSS for JS developers](https://css-for-js.dev/)
+
+Videos
+- [CSS Complete Guide - Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
 ## Advanced CSS
-- https://cssdemystified.com/
-- https://debuggingcss.com/
+- [Debugging CSS](https://debuggingcss.com/)
+
+Videos
+- [CSS Demystified](https://cssdemystified.com/)
 
 ## JavaScript
 
 #### Books
-- https://eloquentjavascript.net/
-- https://javascript.info/
-- https://exploringjs.com/impatient-js/toc.html
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [JavaScript Info](https://javascript.info/)
+- [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 
 #### Videos
-- https://www.udemy.com/course/the-complete-javascript-course/
-- https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+- [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+- [javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
 ## Advanced JavaScript
 
 #### Books
-- https://github.com/getify/You-Dont-Know-JS
-- https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition
-- https://exploringjs.com/deep-js/toc.html
-- https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+- [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
+- [Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
 
 #### Videos
-- https://frontendmasters.com/courses/deep-javascript-v3/
-- https://frontendmasters.com/courses/javascript-hard-parts-v2/
+- [Deep JavaScript](https://frontendmasters.com/courses/deep-javascript-v3/)
+- [JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 ## HTTP
--  https://developer.mozilla.org/en-US/docs/Web/HTTP
--  https://livebook.manning.com/book/http2-in-action/about-this-book/
+-  [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+-  [HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
 
 ## Web performance
-- https://developer.mozilla.org/en-US/docs/Learn/Performance
-- https://web.dev/learn/#performance
-- https://developers.google.com/web/fundamentals/performance/get-started
-- https://www.smashingmagazine.com/guides/performance/
+- [MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+- [Web Dev Performance](https://web.dev/learn/#performance)
+- [Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
+- [Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
 
 ## TypeScript
-- https://basarat.gitbook.io/typescript/
-- https://www.udemy.com/course/understanding-typescript/
+- [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
+- [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
+
+#### Videos
+- [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
 
 ## React
-- https://www.udemy.com/course/react-redux/
+#### Videos
+- [React Redux](https://www.udemy.com/course/react-redux/)
 
 ## Angular
-- https://www.udemy.com/course/the-complete-guide-to-angular-2/
+#### Videos
+- [Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ## JavaScript Best practices
-- https://refactoringjs.com/files/refactoring-javascript.pdf
-- https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
+- [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Functional JavaScript
-- https://mostly-adequate.gitbook.io/mostly-adequate-guide/
-- https://aguru.gitbooks.io/functional-light-javascript/content/
-- https://frontendmasters.com/courses/functional-javascript-v3/
+- [Mostly adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [functional light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
+
+#### Videos
+- [Functional JavaScript](https://frontendmasters.com/courses/functional-javascript-v3/)
 
 ## Data Structures and Algorithms
 
 #### Coding platforms
-- https://leetcode.com/
-- https://www.hackerrank.com/
+- [Leetcode](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
 
 #### Books
-- https://www.manning.com/books/grokking-algorithms
-- https://www.amazon.com/gp/product/3030542556/
-- https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- [The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
+- [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
-### Courses
-- https://frontendmasters.com/courses/data-structures-algorithms/
-- https://frontendmasters.com/courses/practical-algorithms/
-- https://pro.academind.com/p/javascript-algorithms-the-fundamentals
+#### Videos
 
-#### Youtube channels
-- https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-- https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU
-- https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
-- https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
-- https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
+##### Courses
+- [DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
+- [Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
+- [JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
+
+#### Channels
+- [Adbul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Jenny's Lectures](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+- [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 ## Interview Prep
 TBD
