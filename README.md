@@ -16,9 +16,6 @@ This repo is a collection of highly recommended materials and best practices for
 ## Advanced CSS
 
 - :blue_book: [Debugging CSS](https://debuggingcss.com/)
-
-#### Videos
-
 - [CSS Demystified](https://cssdemystified.com/)
 
 ## JavaScript
@@ -78,11 +75,6 @@ This repo is a collection of highly recommended materials and best practices for
 
 ## Data Structures and Algorithms
 
-#### Coding platforms
-
-- [Leetcode](https://leetcode.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-
 - :blue_book: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - :blue_book: [The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
 - :blue_book: [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
@@ -94,6 +86,11 @@ This repo is a collection of highly recommended materials and best practices for
 - :movie_camera: [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - :movie_camera: [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 - :movie_camera: [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+
+### Coding platforms
+
+- [Leetcode](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
 
 ## Interview Prep
 TBD
