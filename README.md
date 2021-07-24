@@ -64,6 +64,7 @@ This repo is a collection of highly recommended materials and best practices for
 ## React
 #### Videos
 - [React Redux](https://www.udemy.com/course/react-redux/)
+- [Epic React](https://epicreact.dev/)
 
 ## Angular
 #### Videos
