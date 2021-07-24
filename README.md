@@ -12,13 +12,13 @@ This repo is a collection of highly recommended materials and best practices for
 - [Web Dev](https://web.dev/learn/css/)
 - [CSS for JS developers](https://css-for-js.dev/)
 
-Videos
+#### Videos
 - [CSS Complete Guide - Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
 ## Advanced CSS
 - [Debugging CSS](https://debuggingcss.com/)
 
-Videos
+#### Videos
 - [CSS Demystified](https://cssdemystified.com/)
 
 ## JavaScript
@@ -30,7 +30,7 @@ Videos
 
 #### Videos
 - [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-- [javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+- [Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
 ## Advanced JavaScript
 
@@ -75,7 +75,7 @@ Videos
 
 ## Functional JavaScript
 - [Mostly adequate Guide](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
-- [functional light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
+- [Functional Light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
 
 #### Videos
 - [Functional JavaScript](https://frontendmasters.com/courses/functional-javascript-v3/)
