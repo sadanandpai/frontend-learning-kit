@@ -69,6 +69,7 @@ TBD
 
 - 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 - 📗 [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- 📁 [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Functional JavaScript
 
@@ -96,4 +97,9 @@ TBD
 - [Hackerrank](https://www.hackerrank.com/)
 
 ## Interview Prep
-TBD
+
+- 📁 [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+- 📁 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+- 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
+- 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
