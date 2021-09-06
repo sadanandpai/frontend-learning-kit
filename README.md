@@ -32,7 +32,7 @@ This repo is a collection of highly recommended materials and best practices for
 - 📗 [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 - 📘 [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 - 📘 [Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
-- 🎥 [Deep JavaScript](https://frontendmasters.com/courses/deep-javascript-v3/)
+- 🎥 [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 - 🎥 [JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 ## TypeScript
