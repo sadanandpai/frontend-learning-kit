@@ -2,12 +2,14 @@
 
 This repo is a collection of highly recommended materials and best practices for front-end developers. (free + paid)
 
-------------
+---
 
 ## HTML
+
 - 📗 [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## CSS
+
 - 📗 [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 📗 [Web Dev](https://web.dev/learn/css/)
 - 🎥 [CSS Complete Guide - Udemy](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
@@ -40,11 +42,20 @@ This repo is a collection of highly recommended materials and best practices for
 - 📗 [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
 - 📘 [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - 🎥 [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
+- 📗 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 
 ## React
 
 - 🎥 [React Redux](https://www.udemy.com/course/react-redux/)
 - 🎥 [Epic React](https://epicreact.dev/)
+- 📘 [FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
+- 🎥 [Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
+- 🎥 [React Hooks](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+- 📗 [React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
+- 📘 [React explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- 📗 [React by Example](https://reactbyexample.github.io/)
+- 📗 [React Cheatsheet](https://devhints.io/react)
+- 📗 [React Patterns](https://reactpatterns.com/)
 
 ## Angular
 
@@ -56,6 +67,7 @@ This repo is a collection of highly recommended materials and best practices for
 - 📘 [HTTP2 in Action](https://livebook.manning.com/book/http2-in-action/about-this-book/)
 
 ## Git
+
 TBD
 
 ## Web performance
