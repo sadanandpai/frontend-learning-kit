@@ -97,7 +97,7 @@
 - 📘 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 📘 [The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
 - 📘 [Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-- 📁 [Javascript Algo](https://github.com/lokeshparmar998/javascript-algorithms)
+- 📁 [Javascript Algo](https://github.com/trekhleb/javascript-algorithms)
 - 🎥 [DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
 - 🎥 [Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
 - 🎥 [JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
@@ -118,7 +118,7 @@
 - 📁 [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
-- 📁 [Tech Interview Handbook](https://github.com/lokeshparmar998/tech-interview-handbook)
+- 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 ---
