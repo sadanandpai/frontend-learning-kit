@@ -1,6 +1,16 @@
-# Frontend Learning Kit
+<h1 align="center">Frontend Learning Kit</h1>
 
-This repo is a collection of highly recommended materials and best practices for front-end developers. (free + paid)
+<h3 align="center">Collection of highly recommended materials & best practices for front-end developers. (free + paid)</h3>
+
+<div align="center">
+    <p>
+	    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
+	    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+	    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+	    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
+    </p>
+    Show your support by giving a ⭐ to this repo
+</div>
 
 ---
 
@@ -108,3 +118,9 @@ TBD
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+---
+
+### License
+
+This repository is MIT licensed. [Read more](./LICENSE)
