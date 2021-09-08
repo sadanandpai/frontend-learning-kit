@@ -37,6 +37,7 @@
 - 📘 [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 - 🎥 [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 🎥 [Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+- 🎙 [JS Party podcast](https://jsparty.fm/)
 
 ## Advanced JavaScript
 
