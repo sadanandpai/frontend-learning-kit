@@ -33,6 +33,7 @@
 ## JavaScript
 
 - 📗 [Eloquent JavaScript](https://eloquentjavascript.net/)
+- 📗 [JAVASCRIPT30](https://javascript30.com/)
 - 📗 [JavaScript Info](https://javascript.info/)
 - 📘 [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 - 🎥 [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -111,6 +112,9 @@
 
 - [Leetcode](https://leetcode.com/)
 - [Hackerrank](https://www.hackerrank.com/)
+- [Codechef](https://www.codechef.com/)
+- [Codeforces]https://codeforces.com/)
+- [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
 
 ## Interview Prep
 
