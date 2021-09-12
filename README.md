@@ -46,10 +46,12 @@
 - 📘 [Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
 - 🎥 [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 - 🎥 [JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- 🎥 [JavaScript: Understanding the Weird Parts](https://github.com/soumilroy/frontend-learning-kit.git)
 
 ## TypeScript
 
 - 📗 [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
+- 📗 [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 📘 [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - 🎥 [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
 
