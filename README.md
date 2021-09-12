@@ -35,6 +35,7 @@
 - 📗 [Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📗 [JavaScript Info](https://javascript.info/)
 - 📘 [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
+- 📘 [Just Javascript](https://justjavascript.com/)
 - 🎥 [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 🎥 [Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
