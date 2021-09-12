@@ -73,12 +73,21 @@
 
 - 📗 [Git Explorer](https://gitexplorer.com/)
 
-## Web performance
+## Web Performance
 
 - 📗 [MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 - 📗 [Web Dev Performance](https://web.dev/learn/#performance)
 - 📗 [Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - 📗 [Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
+- 🎥 [Web Performance Fundamentals](https://frontendmasters.com/courses/web-perf/)
+
+## Web Security
+
+- 🎥 [Web Security](https://frontendmasters.com/courses/web-security/)
+
+## Accessibility
+
+- 🎥 [Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 
 ## JavaScript Best practices
 
@@ -120,6 +129,7 @@
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- 🎥 [JSer](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos)
 
 ---
 
