@@ -129,7 +129,6 @@
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-- 🎥 [JSer](https://www.youtube.com/channel/UC0qiieVBpjA6YODgIFf6Afg/videos)
 
 ---
 
