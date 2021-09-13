@@ -123,7 +123,16 @@
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
+## Linux
+
+- [Linux Journey](https://linuxjourney.com/)
+- [Linux Survival](https://linuxsurvival.com/)
+- [Overthewire](https://overthewire.org/wargames/)
+- 🎥 [Edureka](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
+- 📗 [Linux for Dummies](https://www.pdfdrive.com/linux-all-in-one-desk-reference-for-dummies-for-index-of-e10698054.html)
+- 📗 [BEGINNER’S GUIDE](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 
 ---
 
