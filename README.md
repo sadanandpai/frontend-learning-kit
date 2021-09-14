@@ -1,15 +1,13 @@
 <h1 align="center">Frontend Learning Kit</h1>
-
 <h3 align="center">Collection of highly recommended materials & best practices for front-end developers. (free + paid)</h3>
-
 <div align="center">
-    <p>
-	    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
-	    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
-	    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
-	    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
-    </p>
-    Show your support by giving a ⭐ to this repo
+  <p>
+    <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
+    <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+    <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
+    <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
+  </p>
+  Show your support by giving a ⭐ to this repo
 </div>
 
 ---
@@ -140,12 +138,8 @@
 
 ## Linux
 
-- [Linux Journey](https://linuxjourney.com/)
-- [Linux Survival](https://linuxsurvival.com/)
-- [Overthewire](https://overthewire.org/wargames/)
+- 📗 [Linux Journey](https://linuxjourney.com/)
 - 🎥 [Edureka](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
-- 📗 [Linux for Dummies](https://www.pdfdrive.com/linux-all-in-one-desk-reference-for-dummies-for-index-of-e10698054.html)
-- 📗 [BEGINNER’S GUIDE](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 
 ---
 
