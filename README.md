@@ -62,6 +62,7 @@
 ## JS Best practices
 
 - 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
+- 🎥 [https://www.udemy.com/course/writing-clean-code/](https://www.udemy.com/course/writing-clean-code/)
 
 ## React
 
@@ -121,11 +122,6 @@
 - 🎥 [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 - 🎥 [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
-### Coding platforms
-
-- 🚉 [Leetcode](https://leetcode.com/)
-- 🚉 [Hackerrank](https://www.hackerrank.com/)
-
 ## Interview Prep
 
 - 📁 [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
@@ -135,6 +131,11 @@
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - 📁 [freeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+## Coding platforms
+
+- 🚉 [Leetcode](https://leetcode.com/)
+- 🚉 [Hackerrank](https://www.hackerrank.com/)
 
 ## Linux
 
