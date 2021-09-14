@@ -135,8 +135,8 @@
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - 📁 [freeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
+- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 ## Linux
 
@@ -154,9 +154,15 @@
 - 🎙 [JS Party podcast](https://jsparty.fm/)
 - 📗 [JavaScript 30](https://javascript30.com/)
 - 📗 [Git Explorer](https://gitexplorer.com/)
+- 📗 [FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
+- 📗 [React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
+- 📗 [React by Example](https://reactbyexample.github.io/)
+- 📗 [React Cheatsheet](https://devhints.io/react)
+- 📗 [React Patterns](https://reactpatterns.com/)
 - 🚉 [Codechef](https://www.codechef.com/)
 - 🚉 [Codeforces](https://codeforces.com/)
 - 🚉 [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
+- 🎥 [Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
 
 ---
 
