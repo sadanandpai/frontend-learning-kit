@@ -138,6 +138,15 @@
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - 📁 [freeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 
+## Linux
+
+- [Linux Journey](https://linuxjourney.com/)
+- [Linux Survival](https://linuxsurvival.com/)
+- [Overthewire](https://overthewire.org/wargames/)
+- 🎥 [Edureka](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
+- 📗 [Linux for Dummies](https://www.pdfdrive.com/linux-all-in-one-desk-reference-for-dummies-for-index-of-e10698054.html)
+- 📗 [BEGINNER’S GUIDE](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+
 ---
 
 # Additional Resources (will be categorized soon)
