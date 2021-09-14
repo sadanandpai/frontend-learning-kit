@@ -33,9 +33,9 @@
 ## JavaScript
 
 - 📗 [Eloquent JavaScript](https://eloquentjavascript.net/)
-- 📗 [JAVASCRIPT30](https://javascript30.com/)
 - 📗 [JavaScript Info](https://javascript.info/)
 - 📘 [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
+- 📘 [Just Javascript](https://justjavascript.com/)
 - 🎥 [Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 🎥 [Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
@@ -47,12 +47,23 @@
 - 📘 [Professional JavaScript for Web developers](https://www.oreilly.com/library/view/professional-javascript-for/9781119366447/)
 - 🎥 [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 - 🎥 [JavaScript Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- 🎥 [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
 
 ## TypeScript
 
 - 📗 [TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
+- 📗 [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 📘 [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - 🎥 [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
+
+## JS Design Patterns
+
+- 📗 [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- 📁 [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+## JS Best practices
+
+- 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 
 ## React
 
@@ -72,20 +83,24 @@
 
 ## Git
 
-- 📗 [Git Explorer](https://gitexplorer.com/)
+- 📗 [Become a git guru](https://www.atlassian.com/git/tutorials)
+- 📗 [Pro Git](https://git-scm.com/book/en/v2)
 
-## Web performance
+## Web Performance
 
 - 📗 [MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 - 📗 [Web Dev Performance](https://web.dev/learn/#performance)
 - 📗 [Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - 📗 [Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
+- 🎥 [Web Performance Fundamentals](https://frontendmasters.com/courses/web-perf/)
 
-## JavaScript Best practices
+## Web Security
 
-- 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
-- 📗 [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- 📁 [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- 🎥 [Web Security](https://frontendmasters.com/courses/web-security/)
+
+## Accessibility
+
+- 🎥 [Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 
 ## Functional JavaScript
 
@@ -110,11 +125,8 @@
 
 ### Coding platforms
 
-- [Leetcode](https://leetcode.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [Codechef](https://www.codechef.com/)
-- [Codeforces](https://codeforces.com/)
-- [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
+- 🚉 [Leetcode](https://leetcode.com/)
+- 🚉 [Hackerrank](https://www.hackerrank.com/)
 
 ## Interview Prep
 
@@ -123,7 +135,8 @@
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+- 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- 📁 [freeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 
 ## Linux
 
@@ -133,6 +146,17 @@
 - 🎥 [Edureka](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
 - 📗 [Linux for Dummies](https://www.pdfdrive.com/linux-all-in-one-desk-reference-for-dummies-for-index-of-e10698054.html)
 - 📗 [BEGINNER’S GUIDE](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
+
+---
+
+# Additional Resources (will be categorized soon)
+
+- 🎙 [JS Party podcast](https://jsparty.fm/)
+- 📗 [JavaScript 30](https://javascript30.com/)
+- 📗 [Git Explorer](https://gitexplorer.com/)
+- 🚉 [Codechef](https://www.codechef.com/)
+- 🚉 [Codeforces](https://codeforces.com/)
+- 🚉 [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
 
 ---
 
