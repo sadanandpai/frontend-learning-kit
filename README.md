@@ -53,6 +53,7 @@
 - 📗 [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
 - 📘 [Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - 🎥 [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
+- 🎥 [TypeScript Course by ui.dev](https://ui.dev/typescript/)
 
 ## JS Design Patterns
 
@@ -70,6 +71,8 @@
 - 🎥 [Epic React](https://epicreact.dev/)
 - 📁 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁 [React explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+- 📁 [Bulletproof React](https://github.com/alan2207/bulletproof-react)
+- 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
 
 ## Angular
 
@@ -100,6 +103,7 @@
 ## Accessibility
 
 - 🎥 [Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
+- 🎥 [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
 
 ## Functional JavaScript
 
