@@ -63,7 +63,7 @@
 ## JS Best practices
 
 - 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
-- 🎥 [https://www.udemy.com/course/writing-clean-code/](https://www.udemy.com/course/writing-clean-code/)
+- 🎥 [Writing Clean Code/](https://www.udemy.com/course/writing-clean-code/)
 
 ## React
 
@@ -72,7 +72,6 @@
 - 📁 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁 [React explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - 📁 [Bulletproof React](https://github.com/alan2207/bulletproof-react)
-- 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
 
 ## Angular
 
@@ -162,6 +161,7 @@
 - 🚉 [Codeforces](https://codeforces.com/)
 - 🚉 [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
 - 🎥 [Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
+- 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
 
 ---
 
