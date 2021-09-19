@@ -77,6 +77,14 @@
 
 - 🎥 [Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
+## Vue
+
+- TBD
+
+## Svelte
+
+- TBD
+
 ## HTTP
 
 - 📗 [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
