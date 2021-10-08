@@ -79,11 +79,11 @@
 
 ## Vue
 
-- TBD
+- 🎥 [Vue:Complete guide](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 ## Svelte
 
-- TBD
+- 🎥 [Sveltejs: Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
 ## HTTP
 
@@ -140,6 +140,7 @@
 - 📁 [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁 [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - 📁 [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- 📁 [JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
 - 📁 [FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 - 🎥 [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
@@ -165,11 +166,12 @@
 - 📗 [React by Example](https://reactbyexample.github.io/)
 - 📗 [React Cheatsheet](https://devhints.io/react)
 - 📗 [React Patterns](https://reactpatterns.com/)
+- 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
+
 - 🚉 [Codechef](https://www.codechef.com/)
 - 🚉 [Codeforces](https://codeforces.com/)
 - 🚉 [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
 - 🎥 [Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
-- 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
 
 ---
 
