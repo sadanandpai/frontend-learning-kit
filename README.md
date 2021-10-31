@@ -55,16 +55,6 @@
 - 🎥 [Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
 - 🎥 [TypeScript Course by ui.dev](https://ui.dev/typescript/)
 
-## JS Design Patterns
-
-- 📗 [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- 📁 [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-## JS Best practices
-
-- 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
-- 🎥 [Writing Clean Code/](https://www.udemy.com/course/writing-clean-code/)
-
 ## React
 
 - 🎥 [React Redux](https://www.udemy.com/course/react-redux/)
@@ -78,16 +68,11 @@
 - 📁 [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 - 📁 [Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
-## Angular
+## Other frameworks
 
+- 🎥 [NextJS](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 🎥 [Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-
-## Vue
-
 - 🎥 [Vue:Complete guide](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
-
-## Svelte
-
 - 🎥 [Sveltejs: Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
 ## HTTP
@@ -116,6 +101,17 @@
 
 - 🎥 [Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥 [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
+
+## JS Design Patterns
+
+- 📗 [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- 📁 [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+## JS Best practices
+
+- 📘 [Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
+- 🎥 [Writing Clean Code](https://www.udemy.com/course/writing-clean-code/)
+- 📘 [The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 
 ## Functional JavaScript
 
