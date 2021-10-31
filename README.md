@@ -69,9 +69,14 @@
 
 - 🎥 [React Redux](https://www.udemy.com/course/react-redux/)
 - 🎥 [Epic React](https://epicreact.dev/)
+- 📗 [ReactJS docs (beta)](https://beta.reactjs.org/)
+
+## React Repos
+
 - 📁 [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁 [React explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - 📁 [Bulletproof React](https://github.com/alan2207/bulletproof-react)
+- 📁 [Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
 ## Angular
 
@@ -118,7 +123,7 @@
 - 📗 [Functional Light JavaScript](https://aguru.gitbooks.io/functional-light-javascript/content/)
 - 🎥 [Functional JavaScript](https://frontendmasters.com/courses/functional-javascript-v3/)
 
-## Data Structures and Algorithms
+## DSA resources
 
 - 📘 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 📘 [The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
@@ -127,6 +132,9 @@
 - 🎥 [DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
 - 🎥 [Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
 - 🎥 [JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
+
+## DSA youtube
+
 - 🎥 [Adbul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - 🎥 [Jenny's Lectures](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - 🎥 [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
@@ -156,7 +164,7 @@
 
 ---
 
-# Additional Resources (will be categorized soon)
+## Additional Resources (will be categorized soon)
 
 - 🎙 [JS Party podcast](https://jsparty.fm/)
 - 📗 [JavaScript 30](https://javascript30.com/)
@@ -167,10 +175,6 @@
 - 📗 [React Cheatsheet](https://devhints.io/react)
 - 📗 [React Patterns](https://reactpatterns.com/)
 - 📗 [Tao Of React](https://alexkondov.com/tao-of-react/)
-
-- 🚉 [Codechef](https://www.codechef.com/)
-- 🚉 [Codeforces](https://codeforces.com/)
-- 🚉 [InterviewBit](https://www.interviewbit.com/coding-interview-questions/)
 - 🎥 [Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
 
 ---
