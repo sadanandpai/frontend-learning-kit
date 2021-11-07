@@ -143,7 +143,7 @@ Software development engineer 3 - frontend is a technical role involving fronten
 
 ---
 
-### Frontend resources/materials
+## Frontend resources/materials
 
 <details>
   <summary><strong>HTML</strong></summary>
