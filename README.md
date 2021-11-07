@@ -12,7 +12,7 @@
 </div>
 
 ---
-## [Frontend resources/materials](#frontend-resourcesmaterials)
+## [Frontend resources/materials](https://github.com/sadanandpai/frontend-learning-kit#frontend-resourcesmaterials)
 ## SDE Frontend role guide
 
 ### SDE1 - Frontend / Junior frontend developer
