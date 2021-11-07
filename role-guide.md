@@ -1,4 +1,4 @@
-<h1>SDE Frontend - Technical guide</h1>
+<h1>SDE Frontend - Role guide</h1>
 <h4>Technical guide for both interviewers and interviewees for frontend roles</h4>
 
 ---
