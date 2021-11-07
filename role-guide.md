@@ -99,7 +99,7 @@ Software development engineer 3 - frontend is a technical role involving fronten
 - Advanced knowledge of CSS and different CSS libraries
 - Strong understanding of performance metrics, service workers, web workers, progressive web apps
 - Strong understanding of TypeScript, Webpack, web components, functional/reactive programming
-- Experience in working on various industry tools such as docker, storybook, GrpahQL
+- Experience in working on various industry tools such as docker, storybook, GraphQL
 
 ##### Engineering skills
 
