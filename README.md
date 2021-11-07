@@ -1,6 +1,7 @@
 <h1 align="center">Frontend Learning Kit</h1>
-<h3 align="center">Collection of highly recommended materials & best practices for front-end developers. (free + paid)</h3>
+<h4 align="center">Collection of highly recommended materials & tech interview guide for frontend developers</h3>
 <div align="center">
+  <img src="./frontend.svg" height="300px" />
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
@@ -160,7 +161,7 @@
 
 ---
 
-## Additional Resources (will be categorized soon)
+## Additional Resources
 
 - 🎙 [JS Party podcast](https://jsparty.fm/)
 - 📗 [JavaScript 30](https://javascript30.com/)
