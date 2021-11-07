@@ -1,5 +1,5 @@
 <h1 align="center">Frontend Learning Kit</h1>
-<h4 align="center">Collection of highly recommended materials & tech interview guide for frontend developers</h3>
+<h4 align="center">Frontend tech interview guide and collection of highly recommended materials</h3>
 <div align="center">
   <img src="./frontend.svg" height="300px" />
   <p>
@@ -12,8 +12,9 @@
 </div>
 
 ---
-## [Frontend resources/materials](https://github.com/sadanandpai/frontend-learning-kit#frontend-resourcesmaterials-1)
-## SDE Frontend role guide
+#### [Frontend resources/materials](https://github.com/sadanandpai/frontend-learning-kit#frontend-resourcesmaterials-1)
+
+## SDE Frontend roles
 
 ### SDE1 - Frontend / Junior frontend developer
 
