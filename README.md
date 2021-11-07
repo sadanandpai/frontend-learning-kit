@@ -58,6 +58,7 @@ Software development engineer 1 - frontend is a role involving frontend developm
   - Understanding of browser internals, session, server-side communication
   - Familiarity of working on tools such as Git, code editor, deployment, etc.
 </details>
+<br>
 
 ### SDE2 - Frontend / Mid-senior frontend developer 
 ##### (includes everything from SDE1)
@@ -101,6 +102,7 @@ Software development engineer 2 - frontend is a technical role involving fronten
   - Familiarity of SSR, web components, node packages, docker, cloud services, etc.
   - Ability to write clean code and follow the industry best standards
 </details>
+<br>
 
 ### SDE3 - Frontend / Senior frontend developer
 ##### (includes everything from SDE2)
@@ -140,6 +142,7 @@ Software development engineer 3 - frontend is a technical role involving fronten
   - Understanding of building custom libraries, packages, and frameworks
   - Ability to explore the technologies and trends to keep the project standards up to date
 </details>
+<br>
 
 ---
 
