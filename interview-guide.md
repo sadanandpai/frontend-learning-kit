@@ -1,5 +1,7 @@
 ## Frontend Interview rounds
 
+<br>
+
 <details>
   <summary><strong>Telephonic / Exploratory discussion</strong></summary>
 
@@ -110,6 +112,7 @@
 
   - won't be restricted only to frontend but can also involve engineering, UX, design thinking, etc.
   - expects to explain the interaction and integration between different components/layers of the system
+  - will not be included for SDE1 role generally
 </details>
 
 <br>
