@@ -153,9 +153,15 @@
   - Follow the [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) approach to answer scenario-based questions
 </details>
 
+<br>
+
 ---
 
+<br>
+
 #### FAQs:
+
+<br>
 
 <details>
   <summary>What is live coding round?</summary>
@@ -164,6 +170,8 @@
   
   Live coding is generally a part of an interview round, where candidate is asked to share the screen and write the program or code snippet. Also candidate is expected to explain the approach while solving the program.
 </details>
+
+<br>
 
 <details>
   <summary>What is bar raiser round?</summary>
@@ -176,22 +184,32 @@
   - The interview panel thinks the candidate is eligible for the higher role and is ready to check the elgiibility of the candidate
 </details>
 
+<br>
+
 <details>
   <summary>Why should I code in pure HTML, CSS, JS for machine coding rounds?</summary>
 </details>
+
+<br>
 
 <details>
   <summary>What is the importance of DSA in frontend role?</summary>
 </details>
 
+<br>
+
 <details>
   <summary>I directly started learning frontend framework without good knowledge of fundamentals (HTML, CSS, JS). What should I do now?</summary>
 </details>
+
+<br>
 
 <details>
   <summary>What is the difference between UI Engineer and frontend developer?</summary>
 </details>
 
+<br>
+
 <details>
-  <summary>When I watch the tutorials I can follow all the instructions & create the project, but on my own, I am completely stuck. Where am I going wrong?</summary>
+  <summary>I tutorials I can follow all the instructions & create the project, but on my own, I am completely stuck. Where am I going wrong?</summary>
 </details>
