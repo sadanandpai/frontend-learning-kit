@@ -5,6 +5,8 @@
 <details>
   <summary><strong>Telephonic / Exploratory discussion</strong></summary>
 
+  <br>
+  
   - generally takes from 20 mins to a maximum of 60 mins
   - used to assess eligibility/fitment of the candidate for the role
   - can be technical or a mix of technical & non-technical questions
@@ -25,6 +27,8 @@
 <details>
   <summary><strong>Machine coding / Assessment</strong></summary>
 
+  <br>
+  
   - generally takes around 60 mins to a maximum of 120 mins
   - used to assess core frontend skills or tech stack knowledge of the candidate
   - purely technical round focused on frontend skills
@@ -32,6 +36,7 @@
   Notes:
 
   - Machine coding expects you to build or solve mini frontend projects or feature
+  - Machine coding round allows you to access internet to search code syntaxes
   - Assessment can be a quiz or set of problems to solve (may involve both frontend & problem solving)
 
   Tips:
@@ -45,6 +50,8 @@
 <details>
   <summary><strong>Problem Solving</strong></summary>
 
+  <br>
+  
   - generally takes from 30 mins to a maximum of 60 mins
   - used to assess the analytical and problem-solving skills of the candidate
   - purely technical round involving problem solving & DSA, but may not focus much on frontend skills
@@ -52,6 +59,8 @@
   Note:
 
   - expects you to understand the problem, get requirements clear, and come up with an optimized solution
+  - generally asked to live coding using google docs or code editor
+  - rather than final output and syntaxes, approach and methodologies are focused more
   
   Tips:
 
@@ -66,6 +75,8 @@
 <details>
   <summary><strong>Take home assignment</strong></summary>
 
+  <br>
+  
   - generally takes from 1 day to 1 week
   - used to assess the capability of the candidate to work on real-time web application
   - purely technical challenge which requires project setup knowledge from scratch
@@ -89,6 +100,8 @@
 <details>
   <summary><strong>Technical Discussion</strong></summary>
 
+  <br>
+  
   - generally takes around 40 mins to 60 mins
   - used to assess the technical strength of the candidate
   - is a purely technical round focused on frontend fundamentals and libraries/tools/frameworks
@@ -97,6 +110,7 @@
 
   - won't be restricted to scripted questions and can include anything technical
   - multiple technical discussions can be scheduled depending on the requirements
+  - generally involves live coding with execution over screen sharing
 </details>
 
 <br>
@@ -104,6 +118,8 @@
 <details>
   <summary><strong>System design</strong></summary>
 
+  <br>
+  
   - generally takes around 40 mins to 60 mins
   - used to assess the understanding & knowledge of the candidate w.r.t product architecture & design
   - purely technical round, focused on functional & non-functional aspects
@@ -120,6 +136,8 @@
 <details>
   <summary><strong>Cultural fit / Managerial</strong></summary>
 
+  <br>
+  
   - generally takes around 30 mins to 60 mins
   - used to finalize if the candidate is fit for the job or role
   - is generally a non-technical round, but may involve technical challenges and puzzles
@@ -141,10 +159,21 @@
 
 <details>
   <summary>What is live coding round?</summary>
+  
+  <br>
+  
+  Live coding is generally a part of an interview round, where candidate is asked to share the screen and write the program or code snippet. Also candidate is expected to explain the approach while solving the program.
 </details>
 
 <details>
   <summary>What is bar raiser round?</summary>
+  
+  <br>
+  
+  Bar raiser round is a special technical round conducted to decide if the candidate is eligible or not. It is generally conducted in the below scenarios
+  - There are multiple eligible candidates for the same role, but vacancies are fewer
+  - The interview panel is not sure if the candidate is eligible for the role or not even after couple of interview rounds
+  - The interview panel thinks the candidate is eligible for the higher role and is ready to check the elgiibility of the candidate
 </details>
 
 <details>
