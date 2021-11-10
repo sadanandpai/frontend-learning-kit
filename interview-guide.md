@@ -211,5 +211,5 @@
 <br>
 
 <details>
-  <summary>I tutorials I can follow all the instructions & create the project, but on my own, I am completely stuck. Where am I going wrong?</summary>
+  <summary>I can follow video tutorials & create the project. But on my own, I get completely stuck. Where am I going wrong?</summary>
 </details>
