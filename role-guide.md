@@ -2,7 +2,7 @@
 
 ### SDE1 - Frontend / Junior frontend developer
 
-Software development engineer 1 - frontend is a role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate should be familiar with web development in general and have an understanding of popular frameworks.
+Software development engineer 1 - frontend is a role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate should be familiar with web development in general and have an understanding of popular frameworks. Frontend experience range expected for this role is <strong>0 - 3 years</strong>
 
 <details>
   <summary><strong>Expectations</strong></summary>
@@ -47,7 +47,7 @@ Software development engineer 1 - frontend is a role involving frontend developm
 ### SDE2 - Frontend / Mid-senior frontend developer 
 ##### (includes everything from SDE1)
 
-Software development engineer 2 - frontend is a technical role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate for this role should be well versed in creating pixel-perfect UIs and have strong web fundamental knowledge. The candidate should already have worked on a frontend framework & have known it in detail.
+Software development engineer 2 - frontend is a technical role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate for this role should be well versed in creating pixel-perfect UIs and have strong web fundamental knowledge. The candidate should already have worked on a frontend framework & have known it in detail. Frontend experience range expected for this role is <strong>3 - 6 years</strong>
 
 <details>
   <summary><strong>Expectations</strong></summary>
@@ -91,7 +91,7 @@ Software development engineer 2 - frontend is a technical role involving fronten
 ### SDE3 - Frontend / Senior frontend developer
 ##### (includes everything from SDE2)
 
-Software development engineer 3 - frontend is a technical role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate should have expertise in the frontend framework and the capability to design the large-scale application from scratch or transform the legacy application into a modern web app. The candidate should have good knowledge of designing project architecture
+Software development engineer 3 - frontend is a technical role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate should have expertise in the frontend framework and the capability to design the large-scale application from scratch or transform the legacy application into a modern web app. The candidate should have good knowledge of designing project architecture. Frontend experience range expected for this role is <strong>6+ years</strong>
 
 <details>
   <summary><strong>Expectations</strong></summary>
@@ -126,3 +126,8 @@ Software development engineer 3 - frontend is a technical role involving fronten
   - Understanding of building custom libraries, packages, and frameworks
   - Ability to explore the technologies and trends to keep the project standards up to date
 </details>
+
+<br>
+
+#### Note
+##### These are not guidelines or standards to be followed. This document is an attempt collect the general practices being followed by industry in recent times and share such information with you, to help you to prepare well to become competent frontend developer
