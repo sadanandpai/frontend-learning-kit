@@ -187,7 +187,31 @@
 <br>
 
 <details>
+  <summary>What is the difference between UI Engineer and frontend developer?</summary>
+</details>
+
+<br>
+
+<details>
   <summary>Why should I code in pure HTML, CSS, JS for machine coding rounds?</summary>
+</details>
+
+<br>
+
+<details>
+  <summary>I had only few technical rounds in a company and there were no rounds as mentioned above!!!</summary>
+</details>
+
+<br>
+
+<details>
+  <summary>I went many of the mentioned rounds above in a company. I have done very good but did not hear anything back from them!!!</summary>
+</details>
+
+<br>
+
+<details>
+  <summary>What factors should I consider while accepting an offer?</summary>
 </details>
 
 <br>
@@ -205,11 +229,10 @@
 <br>
 
 <details>
-  <summary>What is the difference between UI Engineer and frontend developer?</summary>
+  <summary>I can follow video tutorials & create the project. But on my own, I get completely stuck. Where am I going wrong?</summary>
 </details>
 
 <br>
 
-<details>
-  <summary>I can follow video tutorials & create the project. But on my own, I get completely stuck. Where am I going wrong?</summary>
-</details>
+#### Note
+##### These are not guidelines or standards to be followed. This document is an attempt collect the general practices being followed by industry in recent times and share such information with you, to help you to prepare well to become competent frontend developer
