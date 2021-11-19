@@ -139,4 +139,4 @@ Visit [FAQs](./faq.md) section.
 
 #### Note
 
-##### These are not guidelines or standards to be followed. This document is an attempt collect the general practices being followed by industry in recent times and share such information with you, to help you to prepare well to become competent frontend developer
+##### These are not guidelines or standards to be followed. This document is an attempt to collect the general practices being followed by the industry in recent times and share such information with you to help you to prepare well to become a competent frontend developer.
