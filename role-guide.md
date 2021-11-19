@@ -1,5 +1,9 @@
 ## SDE Frontend roles
 
+Guide to help you understand different frontend roles, their expectations and required skills
+
+<br>
+
 ### SDE1 - Frontend / Junior frontend developer
 
 Software development engineer 1 - frontend is a role involving frontend development to build webpages and mobile application interfaces using HTML, CSS, and JavaScript. The candidate should be familiar with web development in general and have an understanding of popular frameworks. Frontend experience range expected for this role is <strong>0 - 3 years</strong>
@@ -21,14 +25,14 @@ Software development engineer 1 - frontend is a role involving frontend developm
   <summary><strong>Core skills</strong></summary>
 
   - Fundamental knowledge of HTML5, CSS, JavaScript syntaxes and their usage
-  - Understanding of doctype, structure, meta info, tags, elements levels, etc.
-  - Knowledge of DOM, storage mechanisms, form handling, etc.
-  - Experience in loading of external scripts & styles, event handling, etc.
-  - Understanding of specificity, cascading, CSS selectors, etc.
-  - Knowledge of box model, positioning, display methods, etc.
+  - Understanding of doctype, structure, meta info, tags, elements levels
+  - Knowledge of DOM, storage mechanisms, form handling
+  - Experience in loading of external scripts & styles, event handling
+  - Understanding of specificity, cascading, CSS selectors
+  - Knowledge of box model, positioning, display methods
   - Experience in any CSS library/framework
-  - Understanding of variables, primitives, operators, scopes, context, etc.
-  - Knowledge of timeouts, callbacks, promises, browser API, etc.
+  - Understanding of variables, primitives, operators, scopes, context
+  - Knowledge of timeouts, callbacks, promises, browser API
   - Hands-on experience of ES6 and newer syntaxes
   - Familiarity with any JS library/framework
 </details>
@@ -66,13 +70,13 @@ Software development engineer 2 - frontend is a technical role involving fronten
   <summary><strong>Core Skills</strong></summary>
 
   - Strong fundamental knowledge of HTML5, CSS, JavaScript syntaxes and their usage
-  - In-depth knowledge of CRP, storage mechanisms, form handling, etc.
-  - Good understanding of accessibility, SEO, DOM manipulations, etc.
-  - Excellence in responsive design, modern layouts, stacking context, etc.
-  - Knowledge of cross-browser compatibilities, transitions, animations, etc.
-  - Expertise in async flows using promises, async-await, generators, requestAnimationFrame, etc.
-  - In-depth knowledge of closures, prototypes, modules, etc.
-  - Good hands-on experience in CSS library/framework, SASS, CSS in JS, etc.
+  - In-depth knowledge of CRP, storage mechanisms, form handling
+  - Good understanding of accessibility, SEO, DOM manipulations
+  - Excellence in responsive design, modern layouts, stacking context
+  - Knowledge of cross-browser compatibilities, transitions, animations
+  - Expertise in async flows using promises, async-await, generators, requestAnimationFrame
+  - In-depth knowledge of closures, prototypes, modules
+  - Good hands-on experience in CSS library/framework, SASS, CSS in JS
   - Extensive knowledge of a JS library/framework
 </details>
 
@@ -111,9 +115,9 @@ Software development engineer 3 - frontend is a technical role involving fronten
   - Expertise in advanced JavaScript and design patterns
   - Expertise and in-depth knowledge of JS frameworks
   - Advanced knowledge of CSS and different CSS libraries
-  - Strong understanding of performance metrics, service workers, web workers, progressive web apps, etc.
-  - Strong understanding of TypeScript, Webpack, web components, functional/reactive programming, etc.
-  - Experience in working on various industry tools such as docker, storybook, GraphQL, etc.
+  - Strong understanding of performance metrics, service workers, web workers, progressive web apps
+  - Strong understanding of TypeScript, Webpack, web components, functional/reactive programming
+  - Good experience on various industry tools such as docker, storybook, GraphQL
 </details>
 
 <details>
@@ -127,7 +131,12 @@ Software development engineer 3 - frontend is a technical role involving fronten
   - Ability to explore the technologies and trends to keep the project standards up to date
 </details>
 
+<br><br>
+
+Visit [FAQs](./faq.md) section.
+
 <br>
 
 #### Note
+
 ##### These are not guidelines or standards to be followed. This document is an attempt collect the general practices being followed by industry in recent times and share such information with you, to help you to prepare well to become competent frontend developer
