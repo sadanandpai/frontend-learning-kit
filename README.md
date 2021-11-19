@@ -14,7 +14,8 @@
 ---
 
 #### [Frontend Role Guide](./role-guide.md) to know about different frontend roles and their criterion
-#### [Frontend Interview Guide](./interview-guide.md) to know about different frontend interview rounds & FAQs
+#### [Frontend Interview Guide](./interview-guide.md) to know about different frontend interview rounds
+#### [FAQs](./faq.md) to clarify common doubts
 
 <br>
 
