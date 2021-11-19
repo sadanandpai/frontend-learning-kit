@@ -83,7 +83,9 @@ Frequently/Commonly Asked Questions with Answers
 
   <br>
   
-  Selection criteria depends on various factors such as technical skills, soft skills, current company, previous company, reason for switch etc. Interviews which you think you have performed well may not be what company is thinking. That said, candidate deserves to know the status of the application after completing the interview process. Unfortunately, many companies (even well known) comapnies do not communicate the result if rejected, to the candidate.
+  - Selection criteria depends on various factors such as technical skills, soft skills, current company, previous company, reason for switch etc. Interviews which you think you have performed well may not be what company is thinking. 
+  - That said, candidate deserves to know the status of the application after completing the interview process. Unfortunately, many companies (even well known) ignore communicating the result to the candidate, if rejected.
+  - It is good to drop a mail requesting the status of interview and expect a feedback. Instead of getting disappointed, consider it as interview experience. It is not recommended to post on social media to defame the company.
 </details>
 
 <br>
