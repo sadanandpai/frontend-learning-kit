@@ -1,6 +1,6 @@
 ## Frontend Interview rounds
 
-Guide to help you understand different frontend interview rounds and their process
+##### Guide to help you understand different frontend interview rounds and their process
 
 <br>
 
@@ -67,9 +67,10 @@ Guide to help you understand different frontend interview rounds and their proce
   Tips:
 
   - Practice various problems/DSA very well, by going through relevant materials before the interview
-  - Think out loud & ask questions to clarify your understanding. Clarify all the doubts related to the question with the interviewer
+  - Ask questions to clarify your understanding. Clarify all your doubts with the interviewer before solving
   - Explain your approach to the interviewer and then proceed to solve the problem
   - It should not be an issue if you are not able to come up with an optimized solution in the first go
+  - Think out loud while solving the problem and share your thought process
 </details>
 
 <br>
