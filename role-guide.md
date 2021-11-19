@@ -43,7 +43,7 @@ Software development engineer 1 - frontend is a role involving frontend developm
   - Fundamental knowledge of programming along with most used data structures
   - Experience in solving most commonly known practical challenges/algorithms
   - Knowledge of request-response model, HTTP basics, asynchronous programming
-  - Understanding of browser internals, session, server-side communication
+  - Understanding of different browsers, session, server-side communication
   - Familiarity of working on tools such as Git, code editor, deployment, etc.
 </details>
 <br>
@@ -85,7 +85,7 @@ Software development engineer 2 - frontend is a technical role involving fronten
 
   - Expertise in version management systems such as Git
   - Strong programming knowledge and ability to solve various problems using efficient techniques
-  - Knowledge of building performant, accessible & secure web applications
+  - Knowledge of building performant and accessible web applications
   - Hands-on experience of state management, internationalization, TypeScript, unit testing, etc.
   - Familiarity of SSR, web components, node packages, docker, cloud services, etc.
   - Ability to write clean code and follow the industry best standards
@@ -113,17 +113,19 @@ Software development engineer 3 - frontend is a technical role involving fronten
   <summary><strong>Core skills</strong></summary>
 
   - Expertise in advanced JavaScript and design patterns
-  - Expertise and in-depth knowledge of JS frameworks
-  - Advanced knowledge of CSS and different CSS libraries
-  - Strong understanding of performance metrics, service workers, web workers, progressive web apps
+  - Expertise and in-depth knowledge of JS frameworks and CSS libraries
+  - Expertise in web performance, perfromance improvement strategies, light house
+  - Strong understanding in service workers, web workers, progressive web apps
   - Strong understanding of TypeScript, Webpack, web components, functional/reactive programming
-  - Good experience on various industry tools such as docker, storybook, GraphQL
+  - Extensive knowledge browser internals, JS engines and web security
+  - Good experience on various industry tools such as docker, storybook, GraphQL, Cypress, firebase
+  - Knowledge of databases, SQL and No SQL
 </details>
 
 <details>
   <summary><strong>Engineering skills</strong></summary>
 
-  - In-depth knowledge of project migration, TDD, micro frontend, CI/CD, etc.
+  - In-depth knowledge of project migration, TDD, End-to-end testing tools, micro frontend, CI/CD, etc.
   - Experience in setting up the project from scratch with various Linters & tool integration
   - Knowledge of building highly scalable and maintainable web apps along with architecture
   - Capability to explore various tech stacks & decide the suitable tech stack
