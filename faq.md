@@ -36,16 +36,6 @@
 <br>
 
 <details>
-  <summary>What is live coding round?</summary>
-  
-  <br>
-  
-  Live coding is generally a part of an interview round, where the candidate has to share the screen and write the program or code snippet. Also, the candidate has to explain the approach while solving the program.
-</details>
-
-<br>
-
-<details>
   <summary>What is the difference between product company and service company? What is C2H role?</summary>
   
   <br>
@@ -53,6 +43,16 @@
   - Product companies do have their own product and employees work for it. Quality of work and compensation are usually better
   - Service companies work for others product and give services to them. (Quality of work is not guaranteed as work can vary project to project)
   - C2H Contract to Hire is a role in which consultancies outsource developer to work for other companies (usually for product companies)
+</details>
+
+<br>
+
+<details>
+  <summary>What is live coding round?</summary>
+  
+  <br>
+  
+  Live coding is generally a part of an interview round, where the candidate has to share the screen and write the program or code snippet. Also, the candidate has to explain the approach while solving the program.
 </details>
 
 <br>
