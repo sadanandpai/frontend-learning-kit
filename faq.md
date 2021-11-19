@@ -156,4 +156,4 @@
 
 #### Note
 
-##### These are not guidelines or standards to be followed. This document is an attempt to collect the general practices being followed by the industry in recent times and share such information with you to help you to prepare well to become a competent frontend developer.
+##### These are not guidelines or standards to be followed. This document is an attempt to list down few commonly asked doubts and share my opinion to help you to prepare well to become a competent frontend developer.
