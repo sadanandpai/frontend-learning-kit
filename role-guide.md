@@ -1,6 +1,6 @@
 ## SDE Frontend roles
 
-Guide to help you understand different frontend roles, their expectations and required skills
+##### Guide to help you understand different frontend roles, their expectations and required skills
 
 <br>
 
