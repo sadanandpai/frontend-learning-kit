@@ -25,7 +25,7 @@
 <br>
 
 <details>
-  <summary>What is the difference between tech lead and team lead?</summary>
+  <summary>What is the difference between Tech lead and Team lead?</summary>
   
   <br>
   
@@ -71,11 +71,11 @@
 <br>
 
 <details>
-  <summary>Is it fine to move to a lower role than my current role while switching?</summary>
+  <summary>What is the importance of DSA in frontend role?</summary>
 
   <br>
   
-  Roles/designations vary from company to company. If the opportunity and compensation match your needs, moving to such a role should not be a problem.
+  Data structures and algorithms help to improve problem-solving capabilities and to optimize the solutions. Like web apps we are building nowadays are frontend heavy, problems/tasks to be coded efficiently. Many companies look for good knowledge of DSA, and hands-on will help you. However, advanced DSA is not very essential for general frontend development.
 </details>
 
 <br>
@@ -101,11 +101,21 @@
 <br>
 
 <details>
+  <summary>Is it fine to move to a lower role than my current role while switching?</summary>
+
+  <br>
+  
+  Roles/designations vary from company to company. If the opportunity and compensation match your needs, moving to such a role should not be a problem.
+</details>
+
+<br>
+
+<details>
   <summary>I went through many of these mentioned interview rounds in a company. I have done very well but did not hear anything back from them!!!</summary>
 
   <br>
   
-  - Selection criteria depend on various factors such as technical skills, soft skills, current company, previous company, the reason for the switch, etc. Interviews in which you think you have performed well may not be what the company is thinking. 
+  - Selection criteria depend on various factors such as technical skills, soft skills, interview rules, previous company, the reason for the switch, etc. Interviews in which you think you have performed well may not be what the company is thinking or the vacancies might have been filled by others.
   - That said, the candidate deserves to know the application status after completing the interview process. Unfortunately, many companies (even well-known) ignore communicating the result to the candidate if rejected.
   - It is good to drop a mail requesting the status of the interview and expect feedback. Instead of getting disappointed, consider it as an interview experience. It isn't recommended to post on social media to defame the company.
 </details>
@@ -134,16 +144,6 @@
 <br>
 
 <details>
-  <summary>What is the importance of DSA in frontend role?</summary>
-
-  <br>
-  
-  Data structures and algorithms help to improve problem-solving capabilities and to optimize the solutions. Like web apps we are building nowadays are frontend heavy, problems/tasks to be coded efficiently. Many companies look for good knowledge of DSA, and hands-on will help you. However, advanced DSA is not very essential for general frontend development.
-</details>
-
-<br>
-
-<details>
   <summary>I directly started learning frontend framework without good knowledge of fundamentals (HTML, CSS, JS). What should I do now?</summary>
 
   <br>
@@ -151,6 +151,28 @@
   One of the below approaches you can follow
   - If you aim for a long term and have enough time, start learning the fundamentals i.e. HTML, CSS, JS. It can be taken up, parallelly along with your routine work. Create a learning roadmap for yourself. It is more academic and organized.
   - If you aim to improve your skills on what you are working on daily, you can explore & study the fundamentals as and when you face the challenges. It is a practical approach but has no roadmap and is unorganized.
+</details>
+
+<br>
+
+<details>
+  <summary>I have 2/4/6+ years of experience in different domain. Is it possible to switch to frontend at this point?</summary>
+
+  <br>
+  
+  Yes. As of now, the frontend market is booming and there is a need for a lot of good frontend developers.
+</details>
+
+<br>
+
+<details>
+  <summary>Who is a self-taught developer? Can I become a self-taught frontend developer?</summary>
+
+  <br>
+  
+  Self-taught developer is someone who does not depend on one curriculum or instructor, instead gets ready to excel the coding/programming skills by using free/paid resources. You can become a one and be the competent frontend developer like others.
+  <br>
+  But having a frontend mentor/insturctor will help to get right guidance and accelerate your learning proccess. 
 </details>
 
 <br>
