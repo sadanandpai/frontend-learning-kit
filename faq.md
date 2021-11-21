@@ -81,7 +81,7 @@
 <br>
 
 <details>
-  <summary>I am unable to decided which JavaScript framework/library should I choose!!!</summary>
+  <summary>Please help me to choose a JavaScript framework/library</summary>
 
   <br>
   
