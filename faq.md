@@ -36,13 +36,13 @@
 <br>
 
 <details>
-  <summary>What is the difference between product company and service company? What is C2H role?</summary>
+  <summary>What is the difference between a product company and a service company? What is C2H role?</summary>
   
   <br>
   
-  - Product companies do have their own product and employees work for it. Quality of work and compensation are usually better
-  - Service companies work for others product and give services to them. (Quality of work is not guaranteed as work can vary project to project)
-  - C2H Contract to Hire is a role in which consultancies outsource developer to work for other companies (usually for product companies)
+  - Product companies do have their product and employees work for it. Quality of work and compensation is usually better
+  - Service companies work for other products and give services to them. (Quality of work is not guaranteed as work can vary from project to project)
+  - C2H Contract to Hire is a role in which consultancies outsource developers to work for other companies (usually for product companies)
 </details>
 
 <br>
@@ -76,6 +76,16 @@
   <br>
   
   Data structures and algorithms help to improve problem-solving capabilities and to optimize the solutions. Like web apps we are building nowadays are frontend heavy, problems/tasks to be coded efficiently. Many companies look for good knowledge of DSA, and hands-on will help you. However, advanced DSA is not very essential for general frontend development.
+</details>
+
+<br>
+
+<details>
+  <summary>I am unable to decided which JavaScript framework/library should I choose!!!</summary>
+
+  <br>
+  
+  As of 2021, React is a popular frontend library having good demands. So it is highly recommended to learn ReactJS.
 </details>
 
 <br>
@@ -156,7 +166,18 @@
 <br>
 
 <details>
-  <summary>I have 2/4/6+ years of experience in different domain. Is it possible to switch to frontend at this point?</summary>
+  <summary>What is roadmap?</summary>
+
+  <br>
+  
+  A roadmap is a step-by-step guide to becoming a strong frontend developer. You can read more about frontend roadmap [here](https://roadmap.sh/frontend)
+
+</details>
+
+<br>
+
+<details>
+  <summary>I have 2/4/6+ years of experience in different domains. Is it possible to switch to frontend at this point?</summary>
 
   <br>
   
@@ -170,9 +191,9 @@
 
   <br>
   
-  Self-taught developer is someone who does not depend on one curriculum or instructor, instead gets ready to excel the coding/programming skills by using free/paid resources. You can become a one and be the competent frontend developer like others.
+  A self-taught developer is someone who does not depend on one curriculum or instructor, instead gets ready to excel in the coding/programming skills by using free/paid resources. You can become one and be a competent frontend developer like others.
   <br>
-  But having a frontend mentor/insturctor will help to get right guidance and accelerate your learning proccess. 
+  But having a frontend mentor/instructor will help to get the right guidance and accelerate your learning process. 
 </details>
 
 <br>
@@ -187,6 +208,50 @@
 
 <br>
 
+<details>
+  <summary>I am a frontend developer and I have prepared well for interviews. I have got multiple offers from top companies and now I feel like I am king/queen of frontend?</summary>
+
+  <br>
+  
+  It is a very optimistic feeling and boosts confidence. But remember below points,
+  - job openings for frontend are more than ever in the current market
+  - cracking interviews depends on various factors such as skills, soft skills, luck, current company, referrals, etc.
+  - frontend ecosystem is vast and mastering it might not be possible
+</details>
+
+<br>
+
+<details>
+  <summary>I am struggling to switch due to my notice period!!!</summary>
+
+  <br>
+  
+  As many of the companies have a notice period of 3 months, it becomes challenging for the switch. There few commonly used strategies as listed below
+  - giving interviews to the companies which accept 3 months notice period
+  - upskilling yourself to an extent that the company becomes ready to wait for you
+  - resign and start searching for the job in the notice period
+  - buy out option
+  
+  There are also a few other techniques such as (not recommended)
+  - mentioning reduced the notice period days than actual
+  - faking that you are on the bench & can get the quick release
+  - faking the health issues to get the early exit to join a new company etc.
+
+</details>
+
+<br>
+
+<details>
+  <summary>What does it mean "accepting the offer"? Can I change my mind later?</summary>
+
+  <br>
+  
+  Once the offer is released to a candidate for a role, the candidate is expected to share the official acceptance over mail by signing the offer letter. This helps the company close the slot for that position. Once the offer is accepted, the company will wait for the candidate to join on the mentioned date.
+  If you change your mind not to join the company after offer acceptance, it would be great to connect to HR and discuss the steps to decline the offer with valid reasons.
+</details>
+
+<br>
+
 #### Note
 
-##### These are not guidelines or standards to be followed. This document is an attempt to list down few commonly asked doubts and share my opinion to help you to prepare well to become a competent frontend developer.
+##### These are not guidelines or standards to be followed. This document is an attempt to list down a few commonly asked doubts and share my opinion to help you to prepare well to become a competent frontend developer.
