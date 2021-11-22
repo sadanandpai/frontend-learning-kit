@@ -15,27 +15,6 @@
 <br>
 
 <details>
-  <summary>Tell me about different role structures in the company</summary>
-  
-  <br>
-  
-  Roles/designations vary from company to company. The expectations and skill set are almost the same as explained in the role guide. To make the progression/promotion process motivating for employees, companies also have multi-level roles (SDE1, 2, 3, 4, ...) with a shorter span for each role. Many companies also follow Junior and Senior roles, with higher roles being tech lead/staff engineer.
-</details>
-
-<br>
-
-<details>
-  <summary>What is the difference between Tech lead and Team lead?</summary>
-  
-  <br>
-  
-  - Tech lead role is equivalent to an SDE3 or higher role, in which the expectation is to have high technical skills besides managing the people technically. Most of the companies give this designation to a person who manages more than one developer.
-  - Team lead role is equivalent associate manager role or higher role, in which the expectation is to have excellent soft skills besides good technical knowledge. Most of the companies give this designation to a person who manages more than one person (need not be technical)
-</details>
-
-<br>
-
-<details>
   <summary>What is the difference between a product company and a service company? What is C2H role?</summary>
   
   <br>
@@ -96,6 +75,27 @@
   <br>
   
   Frontend development at its core, HTML, CSS, and JS. A person with strong knowledge of these can adapt to different libraries & frameworks with ease.
+</details>
+
+<br>
+
+<details>
+  <summary>Tell me about different role structures in the company</summary>
+  
+  <br>
+  
+  Roles/designations vary from company to company. The expectations and skill set are almost the same as explained in the role guide. To make the progression/promotion process motivating for employees, companies also have multi-level roles (SDE1, 2, 3, 4, ...) with a shorter span for each role. Many companies also follow Junior and Senior roles, with higher roles being tech lead/staff engineer.
+</details>
+
+<br>
+
+<details>
+  <summary>What is the difference between Tech lead and Team lead?</summary>
+  
+  <br>
+  
+  - Tech lead role is equivalent to an SDE3 or higher role, in which the expectation is to have high technical skills besides managing the people technically. Most of the companies give this designation to a person who manages more than one developer.
+  - Team lead role is equivalent associate manager role or higher role, in which the expectation is to have excellent soft skills besides good technical knowledge. Most of the companies give this designation to a person who manages more than one person (need not be technical)
 </details>
 
 <br>
@@ -222,32 +222,11 @@
 <br>
 
 <details>
-  <summary>I am struggling to switch due to my notice period!!!</summary>
+  <summary>Where can I find ideas to create personal projects for learning and practice?</summary>
 
   <br>
   
-  As many of the companies have a notice period of 3 months, it becomes challenging for the switch. There few commonly used strategies as listed below
-  - giving interviews to the companies which accept 3 months notice period
-  - upskilling yourself to an extent that the company becomes ready to wait for you
-  - resign and start searching for the job in the notice period
-  - buy out option
-  
-  There are also a few other techniques such as (not recommended)
-  - mentioning reduced the notice period days than actual
-  - faking that you are on the bench & can get the quick release
-  - faking the health issues to get the early exit to join a new company etc.
-
-</details>
-
-<br>
-
-<details>
-  <summary>What does it mean "accepting the offer"? Can I change my mind later?</summary>
-
-  <br>
-  
-  Once the offer is released to a candidate for a role, the candidate is expected to share the official acceptance over mail by signing the offer letter. This helps the company close the slot for that position. Once the offer is accepted, the company will wait for the candidate to join on the mentioned date.
-  If you change your mind not to join the company after offer acceptance, it would be great to connect to HR and discuss the steps to decline the offer with valid reasons.
+  [App ideas](https://github.com/florinpop17/app-ideas)
 </details>
 
 <br>
