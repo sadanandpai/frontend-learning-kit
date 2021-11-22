@@ -8,7 +8,7 @@
     <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
     <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
   </p>
-  Show your support by giving a ⭐ to this repo
+  Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
 
 ---
