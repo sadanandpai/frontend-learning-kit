@@ -60,6 +60,16 @@
 <br>
 
 <details>
+  <summary>Can I use JavaScript for DSA interview?</summary>
+
+  <br>
+  
+  As a frontend developer, I receommend you to use JS for practicing DSA. It will help you to improve your JS hands-on skills as well. Companies will be happy to see you solve problems in JavaScript (after all you are going to work on the same day and night)
+</details>
+
+<br>
+
+<details>
   <summary>Please help me to choose a JavaScript framework/library</summary>
 
   <br>
