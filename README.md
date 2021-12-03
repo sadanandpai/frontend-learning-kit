@@ -223,7 +223,7 @@
   - 📗&nbsp;&nbsp;[React Patterns](https://reactpatterns.com/)
   - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
   - 🎥&nbsp;&nbsp;[Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
-
+  - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 <br>
 
 ---
