@@ -140,7 +140,7 @@
 <br>
 
 <strong>JS Design Patterns</strong>
-
+  - 📗&nbsp;&nbsp;[Modern Web App Design Patterns](https://www.patterns.dev/)
   - 📗&nbsp;&nbsp;[JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   - 📁&nbsp;&nbsp;[Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
