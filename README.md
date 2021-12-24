@@ -162,6 +162,19 @@
 
 <br>
 
+<strong>Frontend youtube channels</strong>
+
+  - 🎥&nbsp;&nbsp;[Traversy Media](https://www.youtube.com/c/TraversyMedia)
+  - 🎥&nbsp;&nbsp;[Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+  - 🎥&nbsp;&nbsp;[Net Ninja](https://www.youtube.com/c/TheNetNinja)
+  - 🎥&nbsp;&nbsp;[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+  - 🎥&nbsp;&nbsp;[Academind](https://www.youtube.com/c/Academind)
+  - 🎥&nbsp;&nbsp;[Dev Ed](https://www.youtube.com/c/DevEd)
+  - 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
+  - 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
+
+<br>
+
 <strong>DSA resources</strong>
 
   - 📘&nbsp;&nbsp;[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
