@@ -13,7 +13,7 @@
 
 ---
 
-#### [frontend projects for Practice & interviews (beginners to intermediates)](./frontend_projects.pdf) [NEW]
+#### [Frontend projects for Practice & interviews (beginners to intermediates)](./frontend_projects.pdf) [NEW]
 #### [2022 Frontend Dev Interview checklist & Roadmap](./2022_FE_roadmap.pdf)
 #### [Frontend Role Guide](./role-guide.md) to know about different frontend roles and their criterion
 #### [Frontend Interview Guide](./interview-guide.md) to know about different frontend interview rounds
