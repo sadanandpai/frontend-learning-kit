@@ -83,7 +83,6 @@
   - 🎥&nbsp;&nbsp;[React Redux](https://www.udemy.com/course/react-redux/)
   - 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
   - 📗&nbsp;&nbsp;[ReactJS docs (beta)](https://beta.reactjs.org/)
-  - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 
 <br>
 
@@ -241,6 +240,7 @@
   - 🎥&nbsp;&nbsp;[Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
   - 🎥&nbsp;&nbsp;[JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
   - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+  - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 <br>
 
 ---
