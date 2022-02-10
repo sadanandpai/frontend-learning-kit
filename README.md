@@ -174,7 +174,6 @@
   - 🎥&nbsp;&nbsp;[Dev Ed](https://www.youtube.com/c/DevEd)
   - 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
   - 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
-  - 🎥&nbsp;&nbsp;[Devtools Tech](https://www.youtube.com/c/devtoolstech)
 
 <br>
 
