@@ -174,6 +174,7 @@
   - 🎥&nbsp;&nbsp;[Dev Ed](https://www.youtube.com/c/DevEd)
   - 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
   - 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
+  - 🎥&nbsp;&nbsp;[Devtools Tech](https://www.youtube.com/c/devtoolstech)
 
 <br>
 
@@ -209,6 +210,7 @@
   - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
   - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
   - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+  - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
 
 <br>
 
@@ -216,6 +218,7 @@
 
   - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
   - 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
+  - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
 
 <br>
 
