@@ -111,11 +111,11 @@
 <br>
 
 <details>
-  <summary>I had only a few technical rounds in a company & there were no rounds as mentioned above!!!</summary>
+  <summary>I had only a few technical rounds in a company & there were no rounds as mentioned in the interview rounds guide!!!</summary>
 
   <br>
   
-  Companies follow the interview structure which best suits them. And depending on various factors (previous interviews, offer acceptance, conversion ratio, etc.) They adjust the interview processes.
+  Companies follow the interview structure which suits them the best. And depending on various factors (previous interviews, offer acceptance, conversion ratio, etc.) They adjust the interview processes.
 </details>
 
 <br>
@@ -149,7 +149,7 @@
   
   - Work culture
   - Compensation (fixed pay + variable pay + joining bonus)
-  - Technologies in use
+  - Tech stack
   - Roles & Responsibilities
   - Interview process
   - Yearly increment/hike
