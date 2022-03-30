@@ -49,6 +49,7 @@
 
   - 📗&nbsp;&nbsp;[Eloquent JavaScript](https://eloquentjavascript.net/)
   - 📗&nbsp;&nbsp;[JavaScript Info](https://javascript.info/)
+  - 📗&nbsp;&nbsp;[JavaScript Tutorial](https://www.javascripttutorial.net/)
   - 📘&nbsp;&nbsp;[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
   - 📘&nbsp;&nbsp;[Just Javascript](https://justjavascript.com/)
   - 🎥&nbsp;&nbsp;[Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -72,6 +73,7 @@
 
   - 📗&nbsp;&nbsp;[TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
   - 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
+  - 📗&nbsp;&nbsp;[TypeScript Tutorial](https://www.typescripttutorial.net/)
   - 📘&nbsp;&nbsp;[Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
   - 🎥&nbsp;&nbsp;[Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
   - 🎥&nbsp;&nbsp;[TypeScript Course by ui.dev](https://ui.dev/typescript/)
