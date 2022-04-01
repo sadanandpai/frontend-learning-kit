@@ -26,6 +26,7 @@
 <strong>HTML</strong>
   
   - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - 📗&nbsp;&nbsp;[W3 Schools](https://www.w3schools.com/html/)
 
 <br>
 
