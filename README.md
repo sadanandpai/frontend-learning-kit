@@ -1,5 +1,5 @@
 <h1 align="center">Frontend Learning Kit</h1>
-<h4 align="center">Frontend tech guide and collection of highly recommended materials</h3>
+<h4 align="center">Frontend tech guide and curated collection of frontend materials</h3>
 <div align="center">
   <img src="./frontend.svg" height="300px" />
   <p>
