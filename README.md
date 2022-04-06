@@ -76,6 +76,7 @@
   - 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - 📗&nbsp;&nbsp;[TypeScript Tutorial](https://www.typescripttutorial.net/)
   - 📗&nbsp;&nbsp;[TypeScript Docs](https://www.typescriptlang.org/docs/)
+  - 📗&nbsp;&nbsp;[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   - 📘&nbsp;&nbsp;[Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
   - 🎥&nbsp;&nbsp;[Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
   - 🎥&nbsp;&nbsp;[TypeScript Course by ui.dev](https://ui.dev/typescript/)
