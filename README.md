@@ -86,7 +86,7 @@
   - 🎥&nbsp;&nbsp;[React Redux](https://www.udemy.com/course/react-redux/)
   - 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
   - 📗&nbsp;&nbsp;[ReactJS docs (beta)](https://beta.reactjs.org/)
-  - 📗&nbsp;&nbsp;[ReactJS Tutorials](📗&nbsp;&nbsp;[ReactJS docs (beta)](https://beta.reactjs.org/))
+  - 📗&nbsp;&nbsp;[ReactJS Tutorials](https://reactjs.org/tutorial/tutorial.html)
 
 <br>
 
