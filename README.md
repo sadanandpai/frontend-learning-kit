@@ -75,6 +75,8 @@
   - 📗&nbsp;&nbsp;[TypeScript Deepdive](https://basarat.gitbook.io/typescript/)
   - 📗&nbsp;&nbsp;[Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html)
   - 📗&nbsp;&nbsp;[TypeScript Tutorial](https://www.typescripttutorial.net/)
+  - 📗&nbsp;&nbsp;[TypeScript Docs](https://www.typescriptlang.org/docs/)
+  - 📗&nbsp;&nbsp;[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   - 📘&nbsp;&nbsp;[Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
   - 🎥&nbsp;&nbsp;[Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
   - 🎥&nbsp;&nbsp;[TypeScript Course by ui.dev](https://ui.dev/typescript/)
@@ -86,6 +88,7 @@
   - 🎥&nbsp;&nbsp;[React Redux](https://www.udemy.com/course/react-redux/)
   - 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
   - 📗&nbsp;&nbsp;[ReactJS docs (beta)](https://beta.reactjs.org/)
+  - 📗&nbsp;&nbsp;[ReactJS Tutorials](https://reactjs.org/tutorial/tutorial.html)
 
 <br>
 
