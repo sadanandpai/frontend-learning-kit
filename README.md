@@ -120,6 +120,7 @@
 
   - 📗&nbsp;&nbsp;[Become a git guru](https://www.atlassian.com/git/tutorials)
   - 📗&nbsp;&nbsp;[Pro Git](https://git-scm.com/book/en/v2)
+  - 📗&nbsp;&nbsp;[Git Explorer](https://gitexplorer.com/)
 
 <br>
 
@@ -182,6 +183,33 @@
 
 <br>
 
+<strong>Interview Prep</strong>
+
+  - 📁&nbsp;&nbsp;[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
+  - 📁&nbsp;&nbsp;[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+  - 📁&nbsp;&nbsp;[JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
+  - 📁&nbsp;&nbsp;[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+  - 📁&nbsp;&nbsp;[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+  - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
+  - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
+  - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+  - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
+  - 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
+  - 🎥&nbsp;&nbsp;[Chirag Goel](https://www.youtube.com/c/engineerchirag)
+
+<br>
+
+<strong>Coding challenges</strong>
+
+  - 🚉&nbsp;&nbsp;[Big Frontend Dev](https://bigfrontend.dev/)
+  - 🚉&nbsp;&nbsp;[Kodiri](https://www.kodiri.com/playground)
+  - 🚉&nbsp;&nbsp;[Frontend Mentor](https://www.frontendmentor.io/)
+  - 🚉&nbsp;&nbsp;[JS Challenger](https://www.jschallenger.com/)
+  - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
+  - 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
+
+---
+
 <strong>DSA resources</strong>
 
   - 📘&nbsp;&nbsp;[Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
@@ -204,32 +232,10 @@
 
 <br>
 
-<strong>Interview Prep</strong>
-
-  - 📁&nbsp;&nbsp;[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-  - 📁&nbsp;&nbsp;[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
-  - 📁&nbsp;&nbsp;[JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
-  - 📁&nbsp;&nbsp;[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
-  - 📁&nbsp;&nbsp;[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-  - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
-  - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
-  - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-  - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
-
-<br>
-
 <strong>Coding platforms</strong>
 
   - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
   - 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
-  - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
-
-<br>
-
-<strong>Linux</strong>
-
-  - 📗&nbsp;&nbsp;[Linux Journey](https://linuxjourney.com/)
-  - 🎥&nbsp;&nbsp;[Edureka](https://www.youtube.com/watch?v=Wgi-OfbP2Gw)
 
 <br>
 
@@ -237,7 +243,6 @@
 
   - 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
   - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/)
-  - 📗&nbsp;&nbsp;[Git Explorer](https://gitexplorer.com/)
   - 📗&nbsp;&nbsp;[FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
   - 📗&nbsp;&nbsp;[React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
   - 📗&nbsp;&nbsp;[React by Example](https://reactbyexample.github.io/)
