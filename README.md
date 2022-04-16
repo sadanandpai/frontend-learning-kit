@@ -13,10 +13,10 @@
 
 ---
 <div align="center">
-    <h4><a href="./frontend_projects.pdf">Frontend projects for Practice & interviews</a> (beginners to intermediates)</h4>
     <h4><a href="./2022_FE_roadmap.pdf">2022 Frontend Dev Interview checklist & Roadmap</a></h4>
     <h4><a href="./role-guide.md">Frontend Role Guide</a> to know about different frontend roles and their criterion</h4>
     <h4><a href="./interview-guide.md">Frontend Interview Guide</a> to know about different frontend interview rounds</h4>
+    <h4><a href="./frontend_projects.pdf">Frontend projects for Practice & interviews</a> (beginners to intermediates)</h4>
     <h4><a href="./faq.md">FAQs</a> to clarify common doubts</h4>
 </div>
 
