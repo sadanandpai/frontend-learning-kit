@@ -95,9 +95,8 @@
 <strong>React Repos</strong>
 
   - 📁&nbsp;&nbsp;[React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
-  - 📁&nbsp;&nbsp;[React explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+  - 📁&nbsp;&nbsp;[Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
   - 📁&nbsp;&nbsp;[Bulletproof React](https://github.com/alan2207/bulletproof-react)
-  - 📁&nbsp;&nbsp;[Under the hood](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
 <br>
 
