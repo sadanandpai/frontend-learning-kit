@@ -121,6 +121,7 @@
   - 📗&nbsp;&nbsp;[Become a git guru](https://www.atlassian.com/git/tutorials)
   - 📗&nbsp;&nbsp;[Pro Git](https://git-scm.com/book/en/v2)
   - 📗&nbsp;&nbsp;[Git Explorer](https://gitexplorer.com/)
+  - 📁&nbsp;&nbsp;[Practical Git Guide](https://github.com/sadanandpai/git-guide)
 
 <br>
 
