@@ -74,7 +74,7 @@
 
   <br>
   
-  As of 2021, React is a popular frontend library having good demands. So it is highly recommended to learn ReactJS.
+  As of 2022, React is a popular frontend library having good demands. So it is highly recommended to learn ReactJS.
 </details>
 
 <br>
