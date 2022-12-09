@@ -205,7 +205,7 @@
 <strong>Coding challenges</strong>
 
   - 🚉&nbsp;&nbsp;[Big Frontend Dev](https://bigfrontend.dev/)
-  - 🚉&nbsp;&nbsp;[Kodiri](https://www.kodiri.com/playground)
+  - 🚉&nbsp;&nbsp;[Great Frontend Dev](https://www.greatfrontend.com/)
   - 🚉&nbsp;&nbsp;[Frontend Mentor](https://www.frontendmentor.io/)
   - 🚉&nbsp;&nbsp;[JS Challenger](https://www.jschallenger.com/)
   - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
