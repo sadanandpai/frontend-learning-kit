@@ -198,6 +198,8 @@
 - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
 - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 
+<br>
+
 <strong>Interview prep channels</strong>
 
 - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
