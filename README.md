@@ -201,6 +201,7 @@
 - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
 - 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
 - 🎥&nbsp;&nbsp;[Chirag Goel](https://www.youtube.com/c/engineerchirag)
+- 🎥&nbsp;&nbsp;[RoadsideCoder](https://www.youtube.com/@RoadsideCoder)
 
 <br>
 
