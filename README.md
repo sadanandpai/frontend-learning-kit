@@ -188,7 +188,7 @@
 
 <br>
 
-<strong>Interview Prep repos</strong>
+<strong>Interview Prep Resources</strong>
 
 - 📁&nbsp;&nbsp;[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 - 📁&nbsp;&nbsp;[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
@@ -197,10 +197,11 @@
 - 📁&nbsp;&nbsp;[Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
 - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
+- 📗&nbsp;&nbsp;[Interview Ant](https://www.interviewant.com/)
 
 <br>
 
-<strong>Interview prep channels</strong>
+<strong>Interview Prep channels</strong>
 
 - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - 🎥&nbsp;&nbsp;[Chirag Goel](https://www.youtube.com/c/engineerchirag)
