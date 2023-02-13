@@ -212,8 +212,6 @@
 - 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
 - 🎥&nbsp;&nbsp;[RoadsideCoder](https://www.youtube.com/@RoadsideCoder)
 - 🎥&nbsp;&nbsp;[Uncommon Geeks](https://www.youtube.com/watch?v=qcixpy3HQ9s&list=PLmcRO0ZwQv4QMslGJQg7N8AzaHkC5pJ4t)
-- 🎥&nbsp;&nbsp;[CareerVidz](https://www.youtube.com/@CareerVidz)
-
 
 <br>
 
