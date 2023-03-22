@@ -92,7 +92,6 @@
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
-- 📗&nbsp;&nbsp;[ReactJS Tutorials](https://reactjs.org/tutorial/tutorial.html)
 - 🎥&nbsp;&nbsp;[Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
 - 📘&nbsp;&nbsp;[React Roadmap](https://roadmap.sh/react)
 
