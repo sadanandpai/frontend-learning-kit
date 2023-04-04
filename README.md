@@ -56,7 +56,6 @@
 - 📗&nbsp;&nbsp;[JavaScript Tutorial](https://www.javascripttutorial.net/)
 - 📘&nbsp;&nbsp;[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 - 📘&nbsp;&nbsp;[Just Javascript](https://justjavascript.com/)
-- 📘&nbsp;&nbsp;[JavaScript Roadmap](https://roadmap.sh/javascript)
 - 🎥&nbsp;&nbsp;[Complete JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 🎥&nbsp;&nbsp;[Javascript Complete Guide](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
@@ -81,7 +80,6 @@
 - 📗&nbsp;&nbsp;[TypeScript Tutorial](https://www.typescripttutorial.net/)
 - 📗&nbsp;&nbsp;[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - 📘&nbsp;&nbsp;[Programming TypeScript](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
-- 📘&nbsp;&nbsp;[TypeScript Roadmap](https://roadmap.sh/typescript)
 - 🎥&nbsp;&nbsp;[Understanding typescript](https://www.udemy.com/course/understanding-typescript/)
 - 🎥&nbsp;&nbsp;[TypeScript Course by ui.dev](https://ui.dev/typescript/)
 
@@ -89,11 +87,10 @@
 
 <strong>React</strong>
 
+- 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
-- 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
 - 🎥&nbsp;&nbsp;[Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
-- 📘&nbsp;&nbsp;[React Roadmap](https://roadmap.sh/react)
 
 <br>
 
