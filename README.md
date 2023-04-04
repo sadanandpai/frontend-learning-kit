@@ -222,6 +222,7 @@
 - 🚉&nbsp;&nbsp;[JS Challenger](https://www.jschallenger.com/)
 - 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
 - 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
+- 🚉&nbsp;&nbsp;[Exercism](https://exercism.org/tracks/javascript)
 
 ---
 
