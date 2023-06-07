@@ -197,6 +197,8 @@
 - 📁&nbsp;&nbsp;[JavaScript Questions MCQ](https://github.com/lydiahallie/javascript-questions)
 - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 - 📗&nbsp;&nbsp;[Interview Ant](https://www.interviewant.com/)
+- 📁&nbsp;&nbsp;[Frontend Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges)
+- 📁&nbsp;&nbsp;[The DOM Challenge](https://github.com/devkodeio/the-dom-challenge)
 
 <br>
 
@@ -205,8 +207,9 @@
 - 🎥&nbsp;&nbsp;[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - 🎥&nbsp;&nbsp;[Chirag Goel](https://www.youtube.com/c/engineerchirag)
 - 🎥&nbsp;&nbsp;[Devtools Tech Frontend Interview Series](https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2)
-- 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
 - 🎥&nbsp;&nbsp;[RoadsideCoder](https://www.youtube.com/@RoadsideCoder)
+- 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
+- 🎥&nbsp;&nbsp;[JS Cafe](https://www.youtube.com/@js_cafe)
 - 🎥&nbsp;&nbsp;[Uncommon Geeks](https://www.youtube.com/watch?v=qcixpy3HQ9s&list=PLmcRO0ZwQv4QMslGJQg7N8AzaHkC5pJ4t)
 
 <br>
