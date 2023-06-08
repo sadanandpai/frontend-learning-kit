@@ -27,6 +27,13 @@
 
 <strong>HTML</strong>
 
+- 📍&nbsp;&nbsp;[Road Map (Beginner Version)](https://roadmap.sh/frontend?r=frontend-beginner)
+- 📍&nbsp;&nbsp;[Road Map (Advance Version)](https://roadmap.sh/frontend)
+
+<br>
+
+<strong>HTML</strong>
+
 - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 📗&nbsp;&nbsp;[W3 Schools](https://www.w3schools.com/html/)
 - 📗&nbsp;&nbsp;[HTML Tutorial](https://www.scaler.com/topics/html/)
