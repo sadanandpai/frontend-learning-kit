@@ -25,10 +25,10 @@
 
 ## Frontend resources/materials
 
-<strong>HTML</strong>
+<strong>Roadmaps</strong>
 
 - 📍&nbsp;&nbsp;[Road Map (Beginner Version)](https://roadmap.sh/frontend?r=frontend-beginner)
-- 📍&nbsp;&nbsp;[Road Map (Advance Version)](https://roadmap.sh/frontend)
+- 📍&nbsp;&nbsp;[Road Map (Advanced Version)](https://roadmap.sh/frontend)
 
 <br>
 
