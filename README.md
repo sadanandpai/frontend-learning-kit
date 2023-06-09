@@ -53,6 +53,7 @@
 
 - 📗&nbsp;&nbsp;[Eloquent JavaScript](https://eloquentjavascript.net/)
 - 📗&nbsp;&nbsp;[JavaScript Info](https://javascript.info/)
+- 📗&nbsp;&nbsp;[MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 📗&nbsp;&nbsp;[JavaScript Tutorial](https://www.javascripttutorial.net/)
 - 📘&nbsp;&nbsp;[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/toc.html)
 - 📘&nbsp;&nbsp;[Just Javascript](https://justjavascript.com/)
