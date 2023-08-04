@@ -27,7 +27,7 @@
 <br>
 
 <details>
-  <summary><strong>Machine coding / Assessment</strong></summary>
+  <summary><strong>Browser coding (Machine coding) / Assessment</strong></summary>
 
   <br>
   
@@ -37,14 +37,14 @@
 
   Notes:
 
-  - Machine coding expects you to build or solve mini frontend projects or feature
-  - Machine coding round allows you to access internet to search code syntaxes
+  - Browser coding expects you to build or solve mini frontend projects or feature
+  - Browser coding round allows you to access internet to search code syntaxes
   - Assessment can be a quiz or set of problems to solve (may involve both frontend & problem solving)
 
   Tips:
 
   - Practice HTML, CSS, JS and DOM mainpulations very well
-  - Machine coding problem can be asked to solve using pure HTML + CSS + JS or with a framework
+  - Browser coding problem can be asked to solve using pure HTML + CSS + JS or with a framework
 </details>
 
 <br>
