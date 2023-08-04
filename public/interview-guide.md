@@ -9,7 +9,7 @@
 
   <br>
   
-  - generally takes from 20 mins to a maximum of 60 mins
+  - takes from 20 mins to a maximum of 60 mins
   - used to assess eligibility/fitment of the candidate for the role
   - can be technical or a mix of technical & non-technical questions
 
@@ -31,7 +31,7 @@
 
   <br>
   
-  - generally takes around 60 mins to a maximum of 120 mins
+  - takes around 60 mins to a maximum of 120 mins
   - used to assess core frontend skills or tech stack knowledge of the candidate
   - purely technical round focused on frontend skills
 
@@ -54,7 +54,7 @@
 
   <br>
   
-  - generally takes from 30 mins to a maximum of 60 mins
+  - takes around 30 mins to a maximum of 60 mins
   - used to assess the analytical and problem-solving skills of the candidate
   - purely technical round involving problem solving & DSA, but may not focus much on frontend skills
 
@@ -80,7 +80,7 @@
 
   <br>
   
-  - generally takes from 1 day to 1 week
+  - takes from 1 day to 1 week
   - used to assess the capability of the candidate to work on real-time web application
   - purely technical challenge which requires project setup knowledge from scratch
 
@@ -105,7 +105,7 @@
 
   <br>
   
-  - generally takes around 40 mins to 60 mins
+  - takes around 40 mins to 60 mins
   - used to assess the technical strength of the candidate
   - is a purely technical round focused on frontend fundamentals and libraries/tools/frameworks
 
@@ -123,7 +123,7 @@
 
   <br>
   
-  - generally takes around 40 mins to 60 mins
+  - takes around 40 mins to 60 mins
   - used to assess the understanding & knowledge of the candidate w.r.t product architecture & design
   - purely technical round, focused on functional & non-functional aspects
 
@@ -137,23 +137,44 @@
 <br>
 
 <details>
-  <summary><strong>Cultural fit / Managerial</strong></summary>
+  <summary><strong>Cultural fit</strong></summary>
 
   <br>
   
-  - generally takes around 30 mins to 60 mins
-  - used to finalize if the candidate is fit for the job or role
-  - is generally a non-technical round, but may involve technical challenges and puzzles
+  - takes around 30 mins to 60 mins
+  - used to evaluate if the candidate is fit for the company and culture
+  - generally a non-technical discussion
   
   Notes:
 
   - expects the candidate to answer different scenarios based on the experience
+  - usually conducted by the higher management roles or non tech person
+
+  Tips:
+
+  - Follow the [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) approach to answer scenario-based questions
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Hiring Manager</strong></summary>
+
+  <br>
+  
+  - takes around 30 mins to 60 mins
+  - used to evaluate if the candidate is fit the team they are hiring for
+  - mix of technical and non-technical round, and also may involve puzzles
+  - in many companies this is merged with cultural fit as a single interview
+  
+  Notes:
+
+  - expects the candidate to answer on the experiences and previous projects
   - usually conducted by the hiring manager or higher management roles
 
   Tips:
 
   - Prepare and make notes of the projects you have worked on so far
-  - Follow the [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) approach to answer scenario-based questions
 </details>
 
 <br><br>
