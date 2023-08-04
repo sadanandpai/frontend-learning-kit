@@ -64,7 +64,7 @@
 
   <br>
   
-  As a frontend developer, I receommend you to use JS for practicing DSA. It will help you to improve your JS hands-on skills as well. Companies will be happy to see you solve problems in JavaScript (after all you are going to work on the same day and night)
+  As a frontend developer, I receommend you to use JS for practicing DSA. It will help you to improve your JS hands-on skills as well. Companies will be happy to see you solve problems in JavaScript (after all you are going to work on the same day and night).
 </details>
 
 <br>
@@ -74,17 +74,17 @@
 
   <br>
   
-  As of 2022, React is a popular frontend library having good demands. So it is highly recommended to learn ReactJS.
+  As of 2023, React is a popular frontend library having good demands. So it is highly recommended to learn ReactJS.
 </details>
 
 <br>
 
 <details>
-  <summary>Why am I expected to code in pure HTML, CSS, JS for machine coding rounds of many companies?</summary>
+  <summary>Why am I expected to code in pure HTML, CSS, JS for browser coding (machine coding) rounds of many companies?</summary>
 
   <br>
   
-  Frontend development at its core, HTML, CSS, and JS. A person with strong knowledge of these can adapt to different libraries & frameworks with ease.
+  Frontend development at its core, HTML, CSS, and JS. A person with strong knowledge of these can adapt to different libraries & frameworks with ease. But nowadays most companies give a flexibility to use a framework as well.
 </details>
 
 <br>
