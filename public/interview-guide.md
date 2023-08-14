@@ -137,27 +137,6 @@
 <br>
 
 <details>
-  <summary><strong>Cultural fit</strong></summary>
-
-  <br>
-  
-  - takes around 30 mins to 60 mins
-  - used to evaluate if the candidate is fit for the company and culture
-  - generally a non-technical discussion
-  
-  Notes:
-
-  - expects the candidate to answer different scenarios based on the experience
-  - usually conducted by the higher management roles or non tech person
-
-  Tips:
-
-  - Follow the [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) approach to answer scenario-based questions
-</details>
-
-<br>
-
-<details>
   <summary><strong>Hiring Manager</strong></summary>
 
   <br>
@@ -175,6 +154,27 @@
   Tips:
 
   - Prepare and make notes of the projects you have worked on so far
+</details>
+
+<br>
+
+<details>
+  <summary><strong>Cultural fit</strong></summary>
+
+  <br>
+  
+  - takes around 30 mins to 60 mins
+  - used to evaluate if the candidate is fit for the company and culture
+  - generally a non-technical discussion
+  
+  Notes:
+
+  - expects the candidate to answer different scenarios based on the experience
+  - usually conducted by the higher management roles or non tech person
+
+  Tips:
+
+  - Follow the [STAR](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) approach to answer scenario-based questions
 </details>
 
 <br><br>
