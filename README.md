@@ -235,6 +235,7 @@
 - 🚉&nbsp;&nbsp;[Exercism](https://exercism.org/tracks/javascript)
 - 🚉&nbsp;&nbsp;[Codedamn](https://codedamn.com/problems)
 - 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
+- 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 
 ---
 
