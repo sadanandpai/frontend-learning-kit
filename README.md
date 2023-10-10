@@ -51,8 +51,8 @@
 
 <strong>Advanced CSS</strong>
 
-- 📘&nbsp;&nbsp;[Debugging CSS](https://debuggingcss.com/)
-- 🎥&nbsp;&nbsp;[CSS Demystified](https://cssdemystified.com/)
+-> 📘&nbsp;&nbsp;[Debugging CSS](https://debuggingcss.com/)
+-> 🎥&nbsp;&nbsp;[CSS Demystified](https://cssdemystified.com/)
 
 <br>
 
