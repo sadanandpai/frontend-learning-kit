@@ -193,6 +193,7 @@
 - 🎥&nbsp;&nbsp;[Kevin Powell](https://www.youtube.com/kepowob)
 - 🎥&nbsp;&nbsp;[Codevolution](https://www.youtube.com/c/Codevolution)
 - 🎥&nbsp;&nbsp;[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+- 🎥&nbsp;&nbsp;[Code With Antonio](https://www.youtube.com/@codewithantonio)
 
 <br>
 
