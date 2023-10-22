@@ -281,7 +281,6 @@
 - 📗&nbsp;&nbsp;[React Cheatsheet](https://devhints.io/react)
 - 📗&nbsp;&nbsp;[React Patterns](https://reactpatterns.com/)
 - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
-- 🎥&nbsp;&nbsp;[JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
   <br>
