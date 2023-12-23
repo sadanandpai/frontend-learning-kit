@@ -2,13 +2,15 @@
 <h4 align="center">Frontend tech guide and curated collection of frontend materials</h3>
 <div align="center">
   <img src="./public/frontend.svg" height="300px" />
+  <br>
+  Show your support by giving a ⭐&nbsp;&nbsp;to this repo
+  <br><br>
   <p>
     <a name="stars"><img src="https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
     <a name="forks"><img src="https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
     <a name="contributions"><img src="https://img.shields.io/github/contributors/sadanandpai/frontend-learning-kit?logoColor=green&style=for-the-badge"></a>
     <a name="license"><img src="https://img.shields.io/github/license/sadanandpai/frontend-learning-kit?style=for-the-badge"></a>
   </p>
-  Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
 
 <div align="center">
