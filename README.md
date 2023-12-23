@@ -11,8 +11,6 @@
   Show your support by giving a ⭐&nbsp;&nbsp;to this repo
 </div>
 
----
-
 <div align="center">
     <h4><a href="./public/2024_FE_roadmap.pdf">2024 Frontend Dev Roadmap & checklist</a></h4>
     <h4><a href="./public/role-guide.md">Frontend Role Guide</a> to know about different frontend roles and their criterion</h4>
@@ -20,6 +18,13 @@
     <h4><a href="./public/frontend_projects.pdf">Frontend projects for Practice & interviews</a> (beginners to intermediates)</h4>
     <h4><a href="./public/faq.md">FAQs</a> to clarify common doubts</h4>
 </div>
+
+---
+
+<br>
+
+> [!NOTE]  
+> Ace your Frontend UI coding interview rounds with [Frontend Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges) for free
 
 <br>
 
