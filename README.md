@@ -44,6 +44,7 @@
 - 📗&nbsp;&nbsp;[MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - 📗&nbsp;&nbsp;[W3 Schools](https://www.w3schools.com/html/)
 - 📗&nbsp;&nbsp;[HTML Tutorial](https://www.scaler.com/topics/html/)
+- 🎥&nbsp;&nbsp;[Complete Guide to HTML](https://www.udemy.com/course/the-complete-guide-to-html/)
 
 <br>
 
@@ -60,6 +61,7 @@
 
 - 📘&nbsp;&nbsp;[Debugging CSS](https://debuggingcss.com/)
 - 🎥&nbsp;&nbsp;[CSS Demystified](https://cssdemystified.com/)
+- 🎥&nbsp;&nbsp;[Advanced CSS](https://www.udemy.com/course/advanced-css-and-sass/)
 
 <br>
 
@@ -114,6 +116,13 @@
 - 📁&nbsp;&nbsp;[React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 📁&nbsp;&nbsp;[Entire React code base explanation by visual block](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 - 📁&nbsp;&nbsp;[Bulletproof React](https://github.com/alan2207/bulletproof-react)
+
+<br>
+
+<strong>GraphQL</strong>
+
+- 🎥&nbsp;&nbsp;[Graphql with React](https://www.udemy.com/course/graphql-with-react-course/)
+- 🎥&nbsp;&nbsp;[Apollo GraphQL](https://www.apollographql.com/tutorials/browse?certifications=apollo-graph-associate)
 
 <br>
 
@@ -177,7 +186,9 @@
 
 - 📘&nbsp;&nbsp;[Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 - 🎥&nbsp;&nbsp;[Writing Clean Code](https://www.udemy.com/course/writing-clean-code/)
+- 🎥&nbsp;&nbsp;[JavaScript unit testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
 - 📘&nbsp;&nbsp;[The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
+- 🎥&nbsp;&nbsp;[MicroFrontends](https://www.udemy.com/course/microfrontend-course)
 
 <br>
 
@@ -264,6 +275,7 @@
 - 🎥&nbsp;&nbsp;[DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
 - 🎥&nbsp;&nbsp;[Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
 - 🎥&nbsp;&nbsp;[JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
+- 🎥&nbsp;&nbsp;[JS algorithms and data structures masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
 <br>
 
