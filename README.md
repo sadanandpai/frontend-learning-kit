@@ -121,8 +121,8 @@
 
 <strong>GraphQL</strong>
 
-- 🎥&nbsp;&nbsp;[Graphql with React](https://www.udemy.com/course/graphql-with-react-course/)
 - 🎥&nbsp;&nbsp;[Apollo GraphQL](https://www.apollographql.com/tutorials/browse?certifications=apollo-graph-associate)
+- 🎥&nbsp;&nbsp;[GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
 
 <br>
 
