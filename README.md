@@ -220,7 +220,9 @@
 - 📁&nbsp;&nbsp;[Awesome Frontend System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
 - 📁&nbsp;&nbsp;[Frontend System Design](https://github.com/devkodeio/frontend-system-design)
 - 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
-- 🎥&nbsp;&nbsp;[Chirag Goel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+- 🎥&nbsp;&nbsp;[Designing Scalable Frontend Systems](https://www.udemy.com/course/designing-scalable-frontend-systems/)
+- 🎥&nbsp;&nbsp;[Namaste System Design](https://namastedev.com/learn/namaste-frontend-system-design)
+- 🎥&nbsp;&nbsp;[Chakde System Design](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
 
 <br>
 
