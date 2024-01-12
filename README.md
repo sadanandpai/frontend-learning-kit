@@ -106,7 +106,8 @@
 
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-- 🎥&nbsp;&nbsp;[Epic React](https://epicreact.dev/)
+- 🎥&nbsp;&nbsp;[Ultimate React](https://www.udemy.com/course/the-ultimate-react-course/)
+- 🎥&nbsp;&nbsp;[Joy of React](https://www.joyofreact.com/)
 - 🎥&nbsp;&nbsp;[Scrimba - Learn React for free interactively](https://scrimba.com/learn/learnreact)
 
 <br>
@@ -119,19 +120,19 @@
 
 <br>
 
-<strong>GraphQL</strong>
-
-- 🎥&nbsp;&nbsp;[Apollo GraphQL](https://www.apollographql.com/tutorials/browse?certifications=apollo-graph-associate)
-- 🎥&nbsp;&nbsp;[GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
-
-<br>
-
 <strong>Other frameworks</strong>
 
 - 🎥&nbsp;&nbsp;[NextJS](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 - 🎥&nbsp;&nbsp;[Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - 🎥&nbsp;&nbsp;[Vue:Complete guide](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 - 🎥&nbsp;&nbsp;[Sveltejs: Complete Guide](https://www.udemy.com/course/sveltejs-the-complete-guide/)
+
+<br>
+
+<strong>GraphQL</strong>
+
+- 🎥&nbsp;&nbsp;[Apollo GraphQL](https://www.apollographql.com/tutorials/browse?certifications=apollo-graph-associate)
+- 🎥&nbsp;&nbsp;[GraphQL Course for Beginners](https://www.youtube.com/watch?v=5199E50O7SI)
 
 <br>
 
