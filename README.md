@@ -224,6 +224,7 @@
 - 🎥&nbsp;&nbsp;[Designing Scalable Frontend Systems](https://www.udemy.com/course/designing-scalable-frontend-systems/)
 - 🎥&nbsp;&nbsp;[Namaste System Design](https://namastedev.com/learn/namaste-frontend-system-design)
 - 🎥&nbsp;&nbsp;[Chakde System Design](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+- 🎥&nbsp;&nbsp;[Frontend System Design Course](https://alpha.learnersbucket.com/)
 
 <br>
 
@@ -256,16 +257,23 @@
 
 - 🚉&nbsp;&nbsp;[Big Frontend Dev](https://bigfrontend.dev/)
 - 🚉&nbsp;&nbsp;[Great Frontend Dev](https://www.greatfrontend.com?fpr=sadanand83)
-- 🚉&nbsp;&nbsp;[Frontend Mentor](https://www.frontendmentor.io/)
-- 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
+- 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/problemset/javascript/)
+- 🚉&nbsp;&nbsp;[Frontend Expert](https://algoexpert.io/frontend/coding-questions)
 - 🚉&nbsp;&nbsp;[JS Challenger](https://www.jschallenger.com/)
-- 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
-- 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
-- 🚉&nbsp;&nbsp;[Exercism](https://exercism.org/tracks/javascript)
 - 🚉&nbsp;&nbsp;[Codedamn](https://codedamn.com/problems)
+- 🚉&nbsp;&nbsp;[Devtools Tech](https://www.devtools.tech/?ref=frontend-learning-kit)
+- 🚉&nbsp;&nbsp;[Frontend Mentor](https://www.frontendmentor.io/)
+- 🚉&nbsp;&nbsp;[Exercism](https://exercism.org/tracks/javascript)
+- 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
 - 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Lead](https://frontendlead.com/)
+- 🚉&nbsp;&nbsp;[Frontend Hire](https://www.frontendhire.com/)
+- 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
+- 🚉&nbsp;&nbsp;[Frontend Churn](https://www.algochurn.com/frontend)
+- 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
+- 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
+- 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
 
 ---
 
