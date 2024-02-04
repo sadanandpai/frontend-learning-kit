@@ -267,6 +267,7 @@
 - 🚉&nbsp;&nbsp;[Learners Bucket](https://practice.learnersbucket.com/)
 - 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Lead](https://frontendlead.com/)
+- 🚉&nbsp;&nbsp;[CSS Battle](https://cssbattle.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Hire](https://www.frontendhire.com/)
 - 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Churn](https://www.algochurn.com/frontend)
