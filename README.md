@@ -271,6 +271,7 @@
 - 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Churn](https://www.algochurn.com/frontend)
 - 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
+- 🚉&nbsp;&nbsp;[Edabit](https://edabit.com/challenges)
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
