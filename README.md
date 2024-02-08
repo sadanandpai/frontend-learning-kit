@@ -324,6 +324,7 @@
 - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
+- 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
   <br>
 
 ---
