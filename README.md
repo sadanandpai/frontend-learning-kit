@@ -275,6 +275,7 @@
 - 🚉&nbsp;&nbsp;[Edabit](https://edabit.com/challenges)
 - 🚉&nbsp;&nbsp;[Dev Challenges](https://devchallenges.io/)
 - 🚉&nbsp;&nbsp;[Codewell](https://www.codewell.cc/)
+- 🚉&nbsp;&nbsp;[I Code This](https://icodethis.com/)
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
