@@ -105,6 +105,7 @@
 <strong>React</strong>
 
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
+- 📗&nbsp;&nbsp;[React Basics](https://learning-zone.github.io/react-basics/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 🎥&nbsp;&nbsp;[Ultimate React](https://www.udemy.com/course/the-ultimate-react-course/)
 - 🎥&nbsp;&nbsp;[Joy of React](https://www.joyofreact.com/)
