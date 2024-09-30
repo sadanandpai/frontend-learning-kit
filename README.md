@@ -225,6 +225,7 @@
 - 🎥&nbsp;&nbsp;[Namaste System Design](https://namastedev.com/learn/namaste-frontend-system-design)
 - 🎥&nbsp;&nbsp;[Chakde System Design](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
 - 🎥&nbsp;&nbsp;[Frontend System Design Course](https://alpha.learnersbucket.com/)
+- 📗&nbsp;&nbsp;[Frontend Geek](https://www.frontendgeek.com/frontend-interview/system-design)
 
 <br>
 
