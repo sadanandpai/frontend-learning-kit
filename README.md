@@ -105,7 +105,6 @@
 <strong>React</strong>
 
 - 📗&nbsp;&nbsp;[React Dev](https://react.dev/)
-- 📗&nbsp;&nbsp;[React Basics](https://learning-zone.github.io/react-basics/)
 - 🎥&nbsp;&nbsp;[React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 🎥&nbsp;&nbsp;[Ultimate React](https://www.udemy.com/course/the-ultimate-react-course/)
 - 🎥&nbsp;&nbsp;[Joy of React](https://www.joyofreact.com/)
@@ -319,6 +318,7 @@
 
 - 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
 - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/)
+- 📗&nbsp;&nbsp;[React Basics](https://learning-zone.github.io/react-basics/)
 - 📗&nbsp;&nbsp;[FreeCodeCamp React Challange](https://www.freecodecamp.org/learn/front-end-development-libraries/react/)
 - 📗&nbsp;&nbsp;[React Coding Challange](https://github.com/alexgurr/react-coding-challenges/)
 - 📗&nbsp;&nbsp;[React by Example](https://reactbyexample.github.io/)
@@ -328,6 +328,7 @@
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 - 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
+
   <br>
 
 ---
