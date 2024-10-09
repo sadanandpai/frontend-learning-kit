@@ -280,6 +280,7 @@
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
+- 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/)
 
 ---
 
@@ -289,7 +290,7 @@
 - 📘&nbsp;&nbsp;[The Algorithm Design Manual](https://www.amazon.com/gp/product/3030542556/)
 - 📘&nbsp;&nbsp;[Cracking Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - 📁&nbsp;&nbsp;[Javascript Algo](https://github.com/trekhleb/javascript-algorithms)
-- 🎥&nbsp;&nbsp;[DataStructues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
+- 🎥&nbsp;&nbsp;[Data Structues Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
 - 🎥&nbsp;&nbsp;[Practical Algorithms](https://frontendmasters.com/courses/practical-algorithms/)
 - 🎥&nbsp;&nbsp;[JavaScript Algorithms fundamentals](https://pro.academind.com/p/javascript-algorithms-the-fundamentals)
 - 🎥&nbsp;&nbsp;[JS algorithms and data structures masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
@@ -299,10 +300,10 @@
 <strong>DSA youtube</strong>
 
 - 🎥&nbsp;&nbsp;[Adbul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- 🎥&nbsp;&nbsp;[Take U Forward](https://www.youtube.com/@takeUforward/)
 - 🎥&nbsp;&nbsp;[Jenny's Lectures](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 - 🎥&nbsp;&nbsp;[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - 🎥&nbsp;&nbsp;[Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
-- 🎥&nbsp;&nbsp;[Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 
 <br>
 
