@@ -165,6 +165,10 @@
 <strong>Web Security</strong>
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
+- 📗&nbsp;&nbsp;[OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
+- 📗&nbsp;&nbsp;[Google Web Fundamentals: Security](https://web.dev/security/)
+- 📗&nbsp;&nbsp;[MDN Web Docs: Security](https://developer.mozilla.org/en-US/docs/Web/Security)
+- 🎥&nbsp;&nbsp;[Cross-Site Scripting and CSRF Prevention](https://www.youtube.com/watch?v=m0EHlfTgGUU)
 
 <br>
 
@@ -172,6 +176,48 @@
 
 - 🎥&nbsp;&nbsp;[Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥&nbsp;&nbsp;[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
+- 📗&nbsp;&nbsp;[Web Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+<br>
+
+<strong>Browser DevTools</strong>
+
+- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
+
+<br>
+
+<strong>Frontend Testing</strong>
+
+- 📗&nbsp;&nbsp;[Jest Docs](https://jestjs.io/)
+- 📗&nbsp;&nbsp;[Cypress](https://www.cypress.io/)
+- 🎥&nbsp;&nbsp;[Frontend Testing Crash Course](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
+
+<br>
+
+<strong>Progressive Web Apps (PWAs)</strong>
+
+- 📗&nbsp;&nbsp;[MDN Guide to PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- 📗&nbsp;&nbsp;[Google Developers: PWAs](https://web.dev/progressive-web-apps/)
+- 🎥&nbsp;&nbsp;[PWA Crash Course](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
+<br>
+
+<strong>Performance Optimization</strong>
+
+- 📗&nbsp;&nbsp;[Core Web Vitals](https://web.dev/vitals/)
+
+
+<br>
+
+<strong>Frontend Deployment Platforms</strong>
+
+- 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
+- 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
+- 📗&nbsp;&nbsp;[Firebase Hosting](https://firebase.google.com/docs/hosting)
+- 📗&nbsp;&nbsp;[AWS Amplify](https://aws.amazon.com/amplify/)
+- 📗&nbsp;&nbsp;[GitHub Pages](https://pages.github.com/)
 
 <br>
 
@@ -313,6 +359,9 @@
 - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
 - 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
 - 🚉&nbsp;&nbsp;[Interviewbit](https://www.interviewbit.com/practice/)
+- 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/)
+- 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
+- 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
 
 <br>
 
