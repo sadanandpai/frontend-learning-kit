@@ -181,9 +181,11 @@
 
 <strong>Frontend Testing</strong>
 
+- 📗&nbsp;&nbsp;[Vitest](https://vitest.dev/)
 - 📗&nbsp;&nbsp;[Jest Docs](https://jestjs.io/)
 - 📗&nbsp;&nbsp;[Cypress](https://www.cypress.io/)
-- 🎥&nbsp;&nbsp;[Frontend Testing Crash Course](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
+- 🎥&nbsp;&nbsp;[JavaScript unit testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
+- 📘&nbsp;&nbsp;[The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 
 <br>
 
@@ -191,7 +193,7 @@
 
 - 📗&nbsp;&nbsp;[MDN Guide to PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - 📗&nbsp;&nbsp;[Google Developers: PWAs](https://web.dev/progressive-web-apps/)
-- 🎥&nbsp;&nbsp;[PWA Crash Course](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+- 🎥&nbsp;&nbsp;[PWA - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/?couponCode=24T2MT111824)
 
 <br>
 
@@ -217,8 +219,6 @@
 
 - 📘&nbsp;&nbsp;[Refactoring JavaScript](https://refactoringjs.com/files/refactoring-javascript.pdf)
 - 🎥&nbsp;&nbsp;[Writing Clean Code](https://www.udemy.com/course/writing-clean-code/)
-- 🎥&nbsp;&nbsp;[JavaScript unit testing](https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/)
-- 📘&nbsp;&nbsp;[The art of unit testing](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 - 🎥&nbsp;&nbsp;[MicroFrontends](https://www.udemy.com/course/microfrontend-course)
 
 <br>
