@@ -155,6 +155,7 @@
 <strong>Web Performance</strong>
 
 - 📗&nbsp;&nbsp;[MDN Performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
+- 📗&nbsp;&nbsp;[Core Web Vitals](https://web.dev/vitals/)
 - 📗&nbsp;&nbsp;[Web Dev Performance](https://web.dev/learn/#performance)
 - 📗&nbsp;&nbsp;[Google Dev - Performance](https://developers.google.com/web/fundamentals/performance/get-started)
 - 📗&nbsp;&nbsp;[Smashing Magezine - Performance](https://www.smashingmagazine.com/guides/performance/)
@@ -165,10 +166,8 @@
 <strong>Web Security</strong>
 
 - 🎥&nbsp;&nbsp;[Web Security](https://frontendmasters.com/courses/web-security/)
-- 📗&nbsp;&nbsp;[OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
 - 📗&nbsp;&nbsp;[Google Web Fundamentals: Security](https://web.dev/security/)
 - 📗&nbsp;&nbsp;[MDN Web Docs: Security](https://developer.mozilla.org/en-US/docs/Web/Security)
-- 🎥&nbsp;&nbsp;[Cross-Site Scripting and CSRF Prevention](https://www.youtube.com/watch?v=m0EHlfTgGUU)
 
 <br>
 
@@ -177,14 +176,6 @@
 - 🎥&nbsp;&nbsp;[Accessibility in JavaScript Applications](https://frontendmasters.com/courses/javascript-accessibility/)
 - 🎥&nbsp;&nbsp;[Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react)
 - 📗&nbsp;&nbsp;[Web Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-
-<br>
-
-<strong>Browser DevTools</strong>
-
-- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
-- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
 <br>
 
@@ -201,13 +192,6 @@
 - 📗&nbsp;&nbsp;[MDN Guide to PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - 📗&nbsp;&nbsp;[Google Developers: PWAs](https://web.dev/progressive-web-apps/)
 - 🎥&nbsp;&nbsp;[PWA Crash Course](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
-
-<br>
-
-<strong>Performance Optimization</strong>
-
-- 📗&nbsp;&nbsp;[Core Web Vitals](https://web.dev/vitals/)
-
 
 <br>
 
@@ -322,7 +306,7 @@
 - 🚉&nbsp;&nbsp;[Edabit](https://edabit.com/challenges)
 - 🚉&nbsp;&nbsp;[Dev Challenges](https://devchallenges.io/)
 - 🚉&nbsp;&nbsp;[Codewell](https://www.codewell.cc/)
-- 🚉&nbsp;&nbsp;[I Code This](https://icodethis.com/)
+- 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/)
 - 🚉&nbsp;&nbsp;[Mister DA](https://www.misterda.com/javascript-exercises)
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
@@ -359,9 +343,14 @@
 - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/)
 - 🚉&nbsp;&nbsp;[Hackerrank](https://www.hackerrank.com/)
 - 🚉&nbsp;&nbsp;[Interviewbit](https://www.interviewbit.com/practice/)
-- 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/)
-- 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
-- 🚉&nbsp;&nbsp;[FrontendPro](https://www.frontendpro.dev/)
+
+<br>
+
+<strong>Browser DevTools</strong>
+
+- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
 <br>
 
