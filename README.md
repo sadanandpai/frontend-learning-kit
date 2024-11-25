@@ -25,8 +25,7 @@
 
 <br>
 
-> [!NOTE]  
-> Ace your Frontend UI coding interview rounds with [Frontend Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges) for free
+> Become a better software engineer by working on projects that actually challenge you at [CodeCrafters](https://app.codecrafters.io/join?via=sadanandpai)
 
 <br>
 
@@ -197,16 +196,6 @@
 
 <br>
 
-<strong>Frontend Deployment Platforms</strong>
-
-- 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
-- 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
-- 📗&nbsp;&nbsp;[Firebase Hosting](https://firebase.google.com/docs/hosting)
-- 📗&nbsp;&nbsp;[AWS Amplify](https://aws.amazon.com/amplify/)
-- 📗&nbsp;&nbsp;[GitHub Pages](https://pages.github.com/)
-
-<br>
-
 <strong>JS Design Patterns</strong>
 
 - 📗&nbsp;&nbsp;[Modern Web App Design Patterns](https://www.patterns.dev/)
@@ -312,6 +301,24 @@
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
 - 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/)
 
+<br>
+
+<strong>Frontend Deployment Platforms</strong>
+
+- 📗&nbsp;&nbsp;[Netlify](https://www.netlify.com/)
+- 📗&nbsp;&nbsp;[Vercel](https://vercel.com/)
+- 📗&nbsp;&nbsp;[Firebase Hosting](https://firebase.google.com/docs/hosting)
+- 📗&nbsp;&nbsp;[AWS Amplify](https://aws.amazon.com/amplify/)
+- 📗&nbsp;&nbsp;[GitHub Pages](https://pages.github.com/)
+
+<br>
+
+<strong>Browser DevTools</strong>
+
+- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
+
 ---
 
 <strong>DSA resources</strong>
@@ -346,14 +353,6 @@
 
 <br>
 
-<strong>Browser DevTools</strong>
-
-- 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-- 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
-- 🎥&nbsp;&nbsp;[DevTools Crash Course](https://www.youtube.com/watch?v=e1gAyQuIFQo)
-
-<br>
-
 <strong>Additional Resources</strong>
 
 - 🎙&nbsp;&nbsp;[JS Party podcast](https://jsparty.fm/)
@@ -375,4 +374,4 @@
 
 ### License
 
-This repository is MIT licensed. [Read more](./LICENSE)
+This repository is MIT-licensed. [Read more](./LICENSE)
