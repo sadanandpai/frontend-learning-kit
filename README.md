@@ -365,7 +365,7 @@
 - 📗&nbsp;&nbsp;[React Patterns](https://reactpatterns.com/)
 - 📗&nbsp;&nbsp;[Tao Of React](https://alexkondov.com/tao-of-react/)
 - 📗&nbsp;&nbsp;[MDN - Front-end Web Dev pathway](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-- 📗&nbsp;&nbsp;[Eeb-Dev-For-Beginners - by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+- 📗&nbsp;&nbsp;[Web-Dev-For-Beginners - by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 - 📗&nbsp;&nbsp;[The React Handbook](https://reacthandbook.com/)
 - 📗&nbsp;&nbsp;[Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
 
