@@ -289,6 +289,7 @@
 - 🚉&nbsp;&nbsp;[Frontend Lead](https://frontendlead.com/)
 - 🚉&nbsp;&nbsp;[CSS Battle](https://cssbattle.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Hire](https://www.frontendhire.com/)
+- 🚉&nbsp;&nbsp;[Kode Karma](https://www.kodekarma.dev/)
 - 🚉&nbsp;&nbsp;[Clientside Dev](https://www.clientside.dev/)
 - 🚉&nbsp;&nbsp;[Frontend Churn](https://www.algochurn.com/frontend)
 - 🚉&nbsp;&nbsp;[Reacterry](https://www.reacterry.com/)
