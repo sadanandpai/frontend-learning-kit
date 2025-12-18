@@ -39,7 +39,6 @@
 
 - 📍&nbsp;&nbsp;[Road Map (Beginner Version)](https://roadmap.sh/frontend?r=frontend-beginner)
 - 📍&nbsp;&nbsp;[Road Map (Advanced Version)](https://roadmap.sh/frontend)
-- 📍&nbsp;&nbsp;[System Design Road Map](https://www.ebat.dev/frontend/blogs/frontend-high-level-design-hld-roadmap-guQ1EenJTWi1y8KxkNYkf)
 
 <br>
 
@@ -242,7 +241,6 @@
 
 <strong>Frontend System Design</strong>
 
-- 📁&nbsp;&nbsp;[Ebat - Engineering Blogs And Tutorials](https://www.ebat.dev/frontend/systemdesign/hld)
 - 📁&nbsp;&nbsp;[Awesome Frontend System Design](https://github.com/greatfrontend/awesome-front-end-system-design)
 - 📁&nbsp;&nbsp;[Frontend System Design](https://github.com/devkodeio/frontend-system-design)
 - 🎥&nbsp;&nbsp;[Front-End Engineer](https://www.youtube.com/c/FrontEndEngineer)
@@ -257,10 +255,6 @@
 <strong>Interview Prep Resources</strong>
 
 - 📁&nbsp;&nbsp;[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
-- 📁&nbsp;&nbsp;[Javascript Interview Questions (company-wise)](https://www.ebat.dev/frontend/javascript/questions)
-- 📁&nbsp;&nbsp;[React Interview Questions (company-wise)](https://www.ebat.dev/frontend/react/questions)
-- 📁&nbsp;&nbsp;[CSS Interview Questions (company-wise)](https://www.ebat.dev/frontend/css/questions)
-- 📁&nbsp;&nbsp;[HTML Interview Questions (company-wise)](https://www.ebat.dev/frontend/html/questions)
 - 📁&nbsp;&nbsp;[JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - 📁&nbsp;&nbsp;[JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - 📁&nbsp;&nbsp;[React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
@@ -270,6 +264,7 @@
 - 📁&nbsp;&nbsp;[FreeCodeCamp Interview Prep](https://github.com/freeCodeCamp/freeCodeCamp/tree/main/curriculum/challenges/english/10-coding-interview-prep)
 - 📗&nbsp;&nbsp;[Interview Ant](https://www.interviewant.com/)
 - 📁&nbsp;&nbsp;[The DOM Challenge](https://github.com/devkodeio/the-dom-challenge)
+- 📁&nbsp;&nbsp;[Ebat Dev](https://www.ebat.dev/frontend)
 
 <br>
 
@@ -285,7 +280,6 @@
 
 <strong>Coding challenges</strong>
 
-- 🚉&nbsp;&nbsp;[Ebat](https://www.ebat.dev/frontend/javascript/challenges)
 - 🚉&nbsp;&nbsp;[Big Frontend Dev](https://bigfrontend.dev/)
 - 🚉&nbsp;&nbsp;[Great Frontend Dev](https://www.greatfrontend.com?fpr=sadanand83)
 - 🚉&nbsp;&nbsp;[Leetcode](https://leetcode.com/problemset/javascript/)
@@ -313,6 +307,7 @@
 - 🚉&nbsp;&nbsp;[React Challenges](https://reactchallenges.live/)
 - 🚉&nbsp;&nbsp;[Daily React Problems](https://dailyreactproblem.vercel.app/)
 - 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/)
+- 🚉&nbsp;&nbsp;[Ebat](https://www.ebat.dev/frontend/javascript/challenges)
 
 <br>
 
