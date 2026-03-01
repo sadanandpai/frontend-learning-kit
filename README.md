@@ -265,6 +265,7 @@
 - 📗&nbsp;&nbsp;[Interview Ant](https://www.interviewant.com/)
 - 📁&nbsp;&nbsp;[The DOM Challenge](https://github.com/devkodeio/the-dom-challenge)
 - 📁&nbsp;&nbsp;[Ebat Dev](https://www.ebat.dev/frontend)
+- 📁&nbsp;&nbsp;[FrontendAtlas](https://frontendatlas.com/coding)
 
 <br>
 
