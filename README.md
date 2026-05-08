@@ -27,15 +27,15 @@
 
 
 > [!IMPORTANT]
-> Explore the curated collection of AI learning materials and start your AI learning journey using [AI Learning Kit](https://github.com/sadanandpai/ai-learning-kit)
-
----
+> <b>Explore our curated collection of AI resources and start your journey into AI Engineering with the [AI Learning Kit](https://github.com/sadanandpai/ai-learning-kit)</b>
 
 <br>
 
 > Become a better software engineer by working on projects that actually challenge you at [CodeCrafters](https://app.codecrafters.io/join?via=sadanandpai)
 
 <br>
+
+---
 
 <details>
 <summary><strong>💡 How to use this guide</strong></summary>
