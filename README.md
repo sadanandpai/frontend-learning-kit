@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <h4><a href="./public/2024_FE_roadmap.pdf">Frontend Dev Roadmap & checklist</a></h4>
     <h4><a href="./public/role-guide.md">Frontend Role Guide</a> to know about different frontend roles and their criterion</h4>
     <h4><a href="./public/interview-guide.md">Frontend Interview Guide</a> to know about different frontend interview rounds</h4>
@@ -23,7 +23,11 @@
 
 <div align="center">
   <h4>Visit <a href='https://deepwiki.com/sadanandpai/frontend-learning-kit'>DeepWiki</a>, for AI interactivity on this repo</h4>
-</div>
+</div> -->
+
+
+> [!IMPORTANT]
+> Explore the curated collection of AI learning materials and start your AI learning journey using [AI Learning Kit](https://github.com/sadanandpai/ai-learning-kit)
 
 ---
 
