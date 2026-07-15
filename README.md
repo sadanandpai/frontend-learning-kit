@@ -270,6 +270,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 📗&nbsp;&nbsp;[JavaScript 30](https://javascript30.com/) - 30 days of building vanilla JS projects, without frameworks
 - 📁&nbsp;&nbsp;[Web-Dev-For-Beginners - by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners) - A free, 12-week comprehensive web development curriculum
 - 📁&nbsp;&nbsp;[React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/) - Series of exercises focused on testing React knowledge
+- 📗&nbsp;&nbsp;[Gapmap](https://gapmap.dev) - Free study notes for 200+ interview topics, written to senior depth, no signup
 
 <br>
 
