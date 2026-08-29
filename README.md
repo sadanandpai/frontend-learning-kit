@@ -330,6 +330,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 📗&nbsp;&nbsp;[Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Official documentation for diagnosing web pages in Chrome
 - 📗&nbsp;&nbsp;[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - Extensive tools and reference for Mozilla's Firefox browser
 - 🎥&nbsp;&nbsp;[Mastering Dev Tools](https://frontendmasters.com/courses/dev-tools-v4/) - Demystifies advanced browser debugging and performance profiling
+- 🛠️&nbsp;&nbsp;[Nutilz](https://nutilz.com) - Free browser-based developer utilities including regex tester, JSON formatter, diff checker, and code converters
 
 <br>
 
