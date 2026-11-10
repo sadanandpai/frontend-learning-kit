@@ -23,17 +23,36 @@
 
 <div align="center">
   <h4>Visit <a href='https://deepwiki.com/sadanandpai/frontend-learning-kit'>DeepWiki</a>, for AI interactivity on this repo</h4>
-</div> -->
+</div>
 
 
 > [!IMPORTANT]
 > <b>Explore our curated collection of AI resources and start your journey into AI Engineering with the [AI Learning Kit](https://github.com/sadanandpai/ai-learning-kit)</b>
-
-<br>
+ 
+<br> -->
 
 > Become a better software engineer by working on projects that actually challenge you at [CodeCrafters](https://app.codecrafters.io/join?via=sadanandpai)
 
-<br>
+## **Website & Autofill Extension**
+
+[![Apply to jobs in seconds with Zapply.](https://github.com/user-attachments/assets/f05ac783-aeb8-45ef-8564-bf4ff5026f1c)](https://app.zapply.jobs/onboarding/?ref=github-cta-sadanandpai)
+
+Explore Zapply’s website and check out:
+
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+<p align="center">
+    <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-sadanandpai">
+        <img src="https://github.com/user-attachments/assets/c99559e1-27e3-4f97-a90f-480780d18cc7" alt="Visit Zapply" width="700">
+    </a>
+</p>
+
+<p align="right"><sub>Sponsored by Zapply</sub></p>
 
 ---
 
