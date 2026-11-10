@@ -48,7 +48,7 @@ Experience an advanced career journey with us! 🚀
 
 <p align="center">
     <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-sadanandpai">
-        <img src="https://github.com/user-attachments/assets/c99559e1-27e3-4f97-a90f-480780d18cc7" alt="Visit Zapply" width="700">
+        <img src="https://github.com/user-attachments/assets/c99559e1-27e3-4f97-a90f-480780d18cc7" alt="Visit Zapply" width="500">
     </a>
 </p>
 
