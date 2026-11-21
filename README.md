@@ -33,6 +33,7 @@
 
 > Become a better software engineer by working on projects that actually challenge you at [CodeCrafters](https://app.codecrafters.io/join?via=sadanandpai)
 
+<!--
 ## **Website & Autofill Extension**
 
 [![Apply to jobs in seconds with Zapply.](https://github.com/user-attachments/assets/f05ac783-aeb8-45ef-8564-bf4ff5026f1c)](https://app.zapply.jobs/onboarding/?ref=github-cta-sadanandpai)
@@ -55,6 +56,7 @@ Experience an advanced career journey with us! 🚀
 <p align="right"><sub>Sponsored by Zapply</sub></p>
 
 ---
+-->
 
 <details>
 <summary><strong>💡 How to use this guide</strong></summary>
